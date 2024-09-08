@@ -1,5 +1,5 @@
-from Main.Game.EventManager import EManage
-from Main.Game.Player import Player
+from .EventManager import EManage
+from .Player import Player
 from dataclasses import dataclass
 
 

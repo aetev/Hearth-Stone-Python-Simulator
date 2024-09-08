@@ -1,2 +1,3 @@
-from Main.Game.Board import Board
+# game/__init__.py
+from .Board import *
 
