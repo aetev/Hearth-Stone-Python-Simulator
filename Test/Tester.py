@@ -1,14 +1,14 @@
-import Main.Board as Board
+import Main.Game as Game
 
 
 
 def test_board_initialization():
-    board = Board()
+    board = Game()
     assert board is not None
     # Add more assertions based on the Board class's attributes and methods
 
 def test_board_some_functionality():
-    board = Board()
+    board = Game()
     # Call some methods on the board and assert the expected outcomes
     # Example:
     # result = board.some_method()

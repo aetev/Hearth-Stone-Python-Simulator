@@ -1,4 +1,4 @@
-class EventManager:
+class EManage:
     def __init__(self):
         self._subscribers = {}
 

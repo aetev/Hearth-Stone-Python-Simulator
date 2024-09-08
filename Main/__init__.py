@@ -1,1 +1,1 @@
-from Board.BoardEntity import Board
+from Main.Game.Board import Board
