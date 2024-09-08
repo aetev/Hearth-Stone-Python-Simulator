@@ -1,10 +1,11 @@
-from Main.Game.Board import Board
+import Main.Game.Board as board
 
+board = board.Board()
 
 
 
 def test_board_event_manager():
-    board = Board()
+    board = board.Board()
 
     # Define a callback function to test event triggering
     def on_turn_end(player_index):
