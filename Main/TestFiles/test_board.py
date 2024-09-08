@@ -1,4 +1,4 @@
-import Main.Game as Board
+from Main.Game import Board
 
 
 
