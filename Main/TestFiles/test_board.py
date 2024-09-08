@@ -2,6 +2,7 @@ from Main.Game import Board
 
 
 
+
 def test_board_event_manager():
     board = Board()
 
