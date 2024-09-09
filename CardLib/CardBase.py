@@ -8,7 +8,7 @@ def get_card_info(card_name):
         return minion_info.get(card_name)
 
 
-class CardSuperClass(ABC):
+class Card(ABC):
     def __init__(self):
         name = type(self).__name__
         card_info = get_card_info(name)
@@ -24,6 +24,3 @@ class CardSuperClass(ABC):
         self.rarityId = card_info["rarityId"]
         self.text = card_info["text"]
         self.selected = False
-
-
-
