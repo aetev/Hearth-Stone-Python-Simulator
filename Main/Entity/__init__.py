@@ -1,3 +1,2 @@
 # game/__init__.py
-from .Board import *
-
+from .GameState import *
