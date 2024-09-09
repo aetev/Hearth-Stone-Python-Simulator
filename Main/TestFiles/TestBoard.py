@@ -1,4 +1,4 @@
-from Main.Entity.GameState import GameState
+from Main.Entity import GameState
 
 
 def test_game_state(self):
