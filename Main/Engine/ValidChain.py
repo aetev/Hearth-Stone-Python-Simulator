@@ -1,11 +1,13 @@
 from abc import ABC, abstractmethod
 
+
 class Handler(ABC):
     def __init__(self, successor=None):
         self._successor = successor
 
     def handle_request(self, request):
         pass
+
 
 class ValidationEngine(ABC):
     def __init__(self):
@@ -14,6 +16,7 @@ class ValidationEngine(ABC):
     def validate(self, request):
         for handler in self.handlers:
             handler.handle_request(request)
+
 
 class ConcreteHandler1(Handler):
     def handle_request(self, request):
@@ -38,6 +41,7 @@ class ConcreteHandler3(Handler):
         elif self._successor is not None:
             self._successor.handle_request(request)
 
+
 class ConcreteHandler4(Handler):
     def handle_request(self, request):
         if request == "request3":
@@ -52,8 +56,9 @@ class handValidator(ValidationEngine):
             ConcreteHandler1(),
             ConcreteHandler2(),
             ConcreteHandler3(),
-            ConcreteHandler4()
+            ConcreteHandler4(),
         ]
+
 
 # Usage example
 engine = handValidator()
