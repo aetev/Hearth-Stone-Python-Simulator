@@ -1,0 +1,2976 @@
+[
+    {
+        "label": "Card",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "CardSuperClass",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "Card",
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Target",
+        "importPath": "Main.Engine.Target",
+        "description": "Main.Engine.Target",
+        "isExtraImport": true,
+        "detail": "Main.Engine.Target",
+        "documentation": {}
+    },
+    {
+        "label": "GameState",
+        "importPath": "Main.Entity.GameState",
+        "description": "Main.Entity.GameState",
+        "isExtraImport": true,
+        "detail": "Main.Entity.GameState",
+        "documentation": {}
+    },
+    {
+        "label": "GameState",
+        "importPath": "Main.Entity.GameState",
+        "description": "Main.Entity.GameState",
+        "isExtraImport": true,
+        "detail": "Main.Entity.GameState",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "damage",
+        "importPath": "Main.Engine.Effects",
+        "description": "Main.Engine.Effects",
+        "isExtraImport": true,
+        "detail": "Main.Engine.Effects",
+        "documentation": {}
+    },
+    {
+        "label": "AcolyteOfDeath",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class AcolyteOfDeath(Card):\n    pass\nclass AntimagicShell(Card):\n    pass\nclass ArmyOfTheDead(Card):\n    pass\nclass Asphyxiate(Card):\n    pass\nclass BattlefieldNecromancer(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "AntimagicShell",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class AntimagicShell(Card):\n    pass\nclass ArmyOfTheDead(Card):\n    pass\nclass Asphyxiate(Card):\n    pass\nclass BattlefieldNecromancer(Card):\n    pass\nclass BloodTap(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "ArmyOfTheDead",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class ArmyOfTheDead(Card):\n    pass\nclass Asphyxiate(Card):\n    pass\nclass BattlefieldNecromancer(Card):\n    pass\nclass BloodTap(Card):\n    pass\nclass BodyBagger(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "Asphyxiate",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class Asphyxiate(Card):\n    pass\nclass BattlefieldNecromancer(Card):\n    pass\nclass BloodTap(Card):\n    pass\nclass BodyBagger(Card):\n    pass\nclass ChillfallenBaron(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "BattlefieldNecromancer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class BattlefieldNecromancer(Card):\n    pass\nclass BloodTap(Card):\n    pass\nclass BodyBagger(Card):\n    pass\nclass ChillfallenBaron(Card):\n    pass\nclass CorpseBride(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "BloodTap",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class BloodTap(Card):\n    pass\nclass BodyBagger(Card):\n    pass\nclass ChillfallenBaron(Card):\n    pass\nclass CorpseBride(Card):\n    pass\nclass CorpseExplosion(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "BodyBagger",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class BodyBagger(Card):\n    pass\nclass ChillfallenBaron(Card):\n    pass\nclass CorpseBride(Card):\n    pass\nclass CorpseExplosion(Card):\n    pass\nclass DeathStrike(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "ChillfallenBaron",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class ChillfallenBaron(Card):\n    pass\nclass CorpseBride(Card):\n    pass\nclass CorpseExplosion(Card):\n    pass\nclass DeathStrike(Card):\n    pass\nclass DeathbringerSaurfang(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "CorpseBride",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class CorpseBride(Card):\n    pass\nclass CorpseExplosion(Card):\n    pass\nclass DeathStrike(Card):\n    pass\nclass DeathbringerSaurfang(Card):\n    pass\nclass FrostStrike(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "CorpseExplosion",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class CorpseExplosion(Card):\n    pass\nclass DeathStrike(Card):\n    pass\nclass DeathbringerSaurfang(Card):\n    pass\nclass FrostStrike(Card):\n    pass\nclass Frostmourne(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "DeathStrike",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class DeathStrike(Card):\n    pass\nclass DeathbringerSaurfang(Card):\n    pass\nclass FrostStrike(Card):\n    pass\nclass Frostmourne(Card):\n    pass\nclass FrostwyrmsFury(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "DeathbringerSaurfang",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class DeathbringerSaurfang(Card):\n    pass\nclass FrostStrike(Card):\n    pass\nclass Frostmourne(Card):\n    pass\nclass FrostwyrmsFury(Card):\n    pass\nclass GnomeMuncher(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "FrostStrike",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class FrostStrike(Card):\n    pass\nclass Frostmourne(Card):\n    pass\nclass FrostwyrmsFury(Card):\n    pass\nclass GnomeMuncher(Card):\n    pass\nclass GraveStrength(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "Frostmourne",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class Frostmourne(Card):\n    pass\nclass FrostwyrmsFury(Card):\n    pass\nclass GnomeMuncher(Card):\n    pass\nclass GraveStrength(Card):\n    pass\nclass HarbingerOfWinter(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "FrostwyrmsFury",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class FrostwyrmsFury(Card):\n    pass\nclass GnomeMuncher(Card):\n    pass\nclass GraveStrength(Card):\n    pass\nclass HarbingerOfWinter(Card):\n    pass\nclass Hematurge(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "GnomeMuncher",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class GnomeMuncher(Card):\n    pass\nclass GraveStrength(Card):\n    pass\nclass HarbingerOfWinter(Card):\n    pass\nclass Hematurge(Card):\n    pass\nclass HornOfWinter(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "GraveStrength",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class GraveStrength(Card):\n    pass\nclass HarbingerOfWinter(Card):\n    pass\nclass Hematurge(Card):\n    pass\nclass HornOfWinter(Card):\n    pass\nclass MarrowManipulator(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "HarbingerOfWinter",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class HarbingerOfWinter(Card):\n    pass\nclass Hematurge(Card):\n    pass\nclass HornOfWinter(Card):\n    pass\nclass MarrowManipulator(Card):\n    pass\nclass MightOfMenethil(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "Hematurge",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class Hematurge(Card):\n    pass\nclass HornOfWinter(Card):\n    pass\nclass MarrowManipulator(Card):\n    pass\nclass MightOfMenethil(Card):\n    pass\nclass NecroticMortician(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "HornOfWinter",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class HornOfWinter(Card):\n    pass\nclass MarrowManipulator(Card):\n    pass\nclass MightOfMenethil(Card):\n    pass\nclass NecroticMortician(Card):\n    pass\nclass NerubianSwarmguard(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "MarrowManipulator",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class MarrowManipulator(Card):\n    pass\nclass MightOfMenethil(Card):\n    pass\nclass NecroticMortician(Card):\n    pass\nclass NerubianSwarmguard(Card):\n    pass\nclass NoxiousCadaver(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "MightOfMenethil",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class MightOfMenethil(Card):\n    pass\nclass NecroticMortician(Card):\n    pass\nclass NerubianSwarmguard(Card):\n    pass\nclass NoxiousCadaver(Card):\n    pass\nclass PlaguedGrain(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "NecroticMortician",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class NecroticMortician(Card):\n    pass\nclass NerubianSwarmguard(Card):\n    pass\nclass NoxiousCadaver(Card):\n    pass\nclass PlaguedGrain(Card):\n    pass\nclass RemorselessWinter(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "NerubianSwarmguard",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class NerubianSwarmguard(Card):\n    pass\nclass NoxiousCadaver(Card):\n    pass\nclass PlaguedGrain(Card):\n    pass\nclass RemorselessWinter(Card):\n    pass\nclass SkeletalSidekick(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "NoxiousCadaver",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class NoxiousCadaver(Card):\n    pass\nclass PlaguedGrain(Card):\n    pass\nclass RemorselessWinter(Card):\n    pass\nclass SkeletalSidekick(Card):\n    pass\nclass Soulbreaker(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "PlaguedGrain",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class PlaguedGrain(Card):\n    pass\nclass RemorselessWinter(Card):\n    pass\nclass SkeletalSidekick(Card):\n    pass\nclass Soulbreaker(Card):\n    pass\nclass Soulstealer(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "RemorselessWinter",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class RemorselessWinter(Card):\n    pass\nclass SkeletalSidekick(Card):\n    pass\nclass Soulbreaker(Card):\n    pass\nclass Soulstealer(Card):\n    pass\nclass StitchedGiant(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "SkeletalSidekick",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class SkeletalSidekick(Card):\n    pass\nclass Soulbreaker(Card):\n    pass\nclass Soulstealer(Card):\n    pass\nclass StitchedGiant(Card):\n    pass\nclass Thassarian(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "Soulbreaker",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class Soulbreaker(Card):\n    pass\nclass Soulstealer(Card):\n    pass\nclass StitchedGiant(Card):\n    pass\nclass Thassarian(Card):\n    pass\nclass TheScourge(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "Soulstealer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class Soulstealer(Card):\n    pass\nclass StitchedGiant(Card):\n    pass\nclass Thassarian(Card):\n    pass\nclass TheScourge(Card):\n    pass\nclass VampiricBlood(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "StitchedGiant",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class StitchedGiant(Card):\n    pass\nclass Thassarian(Card):\n    pass\nclass TheScourge(Card):\n    pass\nclass VampiricBlood(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "Thassarian",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class Thassarian(Card):\n    pass\nclass TheScourge(Card):\n    pass\nclass VampiricBlood(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "TheScourge",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class TheScourge(Card):\n    pass\nclass VampiricBlood(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "VampiricBlood",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.death_knight",
+        "description": "CardLib.sets.core.death_knight",
+        "peekOfCode": "class VampiricBlood(Card):\n    pass",
+        "detail": "CardLib.sets.core.death_knight",
+        "documentation": {}
+    },
+    {
+        "label": "AldrachiWarblades",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class AldrachiWarblades(CardSuperClass):\n    pass\nclass Battlefiend(CardSuperClass):\n    pass\nclass ChaosStrike(CardSuperClass):\n    pass\nclass CoordinatedStrike(CardSuperClass):\n    pass\nclass CrimsonSigilRunner(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "Battlefiend",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class Battlefiend(CardSuperClass):\n    pass\nclass ChaosStrike(CardSuperClass):\n    pass\nclass CoordinatedStrike(CardSuperClass):\n    pass\nclass CrimsonSigilRunner(CardSuperClass):\n    pass\nclass ExpendablePerformers(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "ChaosStrike",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class ChaosStrike(CardSuperClass):\n    pass\nclass CoordinatedStrike(CardSuperClass):\n    pass\nclass CrimsonSigilRunner(CardSuperClass):\n    pass\nclass ExpendablePerformers(CardSuperClass):\n    pass\nclass EyeBeam(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "CoordinatedStrike",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class CoordinatedStrike(CardSuperClass):\n    pass\nclass CrimsonSigilRunner(CardSuperClass):\n    pass\nclass ExpendablePerformers(CardSuperClass):\n    pass\nclass EyeBeam(CardSuperClass):\n    pass\nclass GanargGlaivesmith(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "CrimsonSigilRunner",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class CrimsonSigilRunner(CardSuperClass):\n    pass\nclass ExpendablePerformers(CardSuperClass):\n    pass\nclass EyeBeam(CardSuperClass):\n    pass\nclass GanargGlaivesmith(CardSuperClass):\n    pass\nclass IllidariInquisitor(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "ExpendablePerformers",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class ExpendablePerformers(CardSuperClass):\n    pass\nclass EyeBeam(CardSuperClass):\n    pass\nclass GanargGlaivesmith(CardSuperClass):\n    pass\nclass IllidariInquisitor(CardSuperClass):\n    pass\nclass IllidariStudies(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "EyeBeam",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class EyeBeam(CardSuperClass):\n    pass\nclass GanargGlaivesmith(CardSuperClass):\n    pass\nclass IllidariInquisitor(CardSuperClass):\n    pass\nclass IllidariStudies(CardSuperClass):\n    pass\nclass ImmolationAura(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "GanargGlaivesmith",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class GanargGlaivesmith(CardSuperClass):\n    pass\nclass IllidariInquisitor(CardSuperClass):\n    pass\nclass IllidariStudies(CardSuperClass):\n    pass\nclass ImmolationAura(CardSuperClass):\n    pass\nclass KaynSunfury(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "IllidariInquisitor",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class IllidariInquisitor(CardSuperClass):\n    pass\nclass IllidariStudies(CardSuperClass):\n    pass\nclass ImmolationAura(CardSuperClass):\n    pass\nclass KaynSunfury(CardSuperClass):\n    pass\nclass Metamorphosis(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "IllidariStudies",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class IllidariStudies(CardSuperClass):\n    pass\nclass ImmolationAura(CardSuperClass):\n    pass\nclass KaynSunfury(CardSuperClass):\n    pass\nclass Metamorphosis(CardSuperClass):\n    pass\nclass RagingFelscreamer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "ImmolationAura",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class ImmolationAura(CardSuperClass):\n    pass\nclass KaynSunfury(CardSuperClass):\n    pass\nclass Metamorphosis(CardSuperClass):\n    pass\nclass RagingFelscreamer(CardSuperClass):\n    pass\nclass SpectralSight(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "KaynSunfury",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class KaynSunfury(CardSuperClass):\n    pass\nclass Metamorphosis(CardSuperClass):\n    pass\nclass RagingFelscreamer(CardSuperClass):\n    pass\nclass SpectralSight(CardSuperClass):\n    pass\nclass Umberwing(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "Metamorphosis",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class Metamorphosis(CardSuperClass):\n    pass\nclass RagingFelscreamer(CardSuperClass):\n    pass\nclass SpectralSight(CardSuperClass):\n    pass\nclass Umberwing(CardSuperClass):\n    pass\nclass WaywardSage(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "RagingFelscreamer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class RagingFelscreamer(CardSuperClass):\n    pass\nclass SpectralSight(CardSuperClass):\n    pass\nclass Umberwing(CardSuperClass):\n    pass\nclass WaywardSage(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "SpectralSight",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class SpectralSight(CardSuperClass):\n    pass\nclass Umberwing(CardSuperClass):\n    pass\nclass WaywardSage(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "Umberwing",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class Umberwing(CardSuperClass):\n    pass\nclass WaywardSage(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "WaywardSage",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.demon_hunter",
+        "description": "CardLib.sets.core.demon_hunter",
+        "peekOfCode": "class WaywardSage(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.demon_hunter",
+        "documentation": {}
+    },
+    {
+        "label": "AncientOfLore",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class AncientOfLore(CardSuperClass):\n    pass\nclass Cenarius(CardSuperClass):\n    pass\nclass DruidOfTheClaw(CardSuperClass):\n    pass\nclass FeralRage(CardSuperClass):\n    pass\nclass Greybough(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "Cenarius",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class Cenarius(CardSuperClass):\n    pass\nclass DruidOfTheClaw(CardSuperClass):\n    pass\nclass FeralRage(CardSuperClass):\n    pass\nclass Greybough(CardSuperClass):\n    pass\nclass Innervate(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "DruidOfTheClaw",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class DruidOfTheClaw(CardSuperClass):\n    pass\nclass FeralRage(CardSuperClass):\n    pass\nclass Greybough(CardSuperClass):\n    pass\nclass Innervate(CardSuperClass):\n    pass\nclass LesserJasperSpellstone(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "FeralRage",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class FeralRage(CardSuperClass):\n    pass\nclass Greybough(CardSuperClass):\n    pass\nclass Innervate(CardSuperClass):\n    pass\nclass LesserJasperSpellstone(CardSuperClass):\n    pass\nclass LivingRoots(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "Greybough",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class Greybough(CardSuperClass):\n    pass\nclass Innervate(CardSuperClass):\n    pass\nclass LesserJasperSpellstone(CardSuperClass):\n    pass\nclass LivingRoots(CardSuperClass):\n    pass\nclass MarkOfTheWild(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "Innervate",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class Innervate(CardSuperClass):\n    pass\nclass LesserJasperSpellstone(CardSuperClass):\n    pass\nclass LivingRoots(CardSuperClass):\n    pass\nclass MarkOfTheWild(CardSuperClass):\n    pass\nclass OakenSummons(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "LesserJasperSpellstone",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class LesserJasperSpellstone(CardSuperClass):\n    pass\nclass LivingRoots(CardSuperClass):\n    pass\nclass MarkOfTheWild(CardSuperClass):\n    pass\nclass OakenSummons(CardSuperClass):\n    pass\nclass ParkPanther(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "LivingRoots",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class LivingRoots(CardSuperClass):\n    pass\nclass MarkOfTheWild(CardSuperClass):\n    pass\nclass OakenSummons(CardSuperClass):\n    pass\nclass ParkPanther(CardSuperClass):\n    pass\nclass PowerOfTheWild(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "MarkOfTheWild",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class MarkOfTheWild(CardSuperClass):\n    pass\nclass OakenSummons(CardSuperClass):\n    pass\nclass ParkPanther(CardSuperClass):\n    pass\nclass PowerOfTheWild(CardSuperClass):\n    pass\nclass RavenIdol(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "OakenSummons",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class OakenSummons(CardSuperClass):\n    pass\nclass ParkPanther(CardSuperClass):\n    pass\nclass PowerOfTheWild(CardSuperClass):\n    pass\nclass RavenIdol(CardSuperClass):\n    pass\nclass Swipe(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "ParkPanther",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class ParkPanther(CardSuperClass):\n    pass\nclass PowerOfTheWild(CardSuperClass):\n    pass\nclass RavenIdol(CardSuperClass):\n    pass\nclass Swipe(CardSuperClass):\n    pass\nclass ThickhideKodo(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "PowerOfTheWild",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class PowerOfTheWild(CardSuperClass):\n    pass\nclass RavenIdol(CardSuperClass):\n    pass\nclass Swipe(CardSuperClass):\n    pass\nclass ThickhideKodo(CardSuperClass):\n    pass\nclass WitchwoodApple(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "RavenIdol",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class RavenIdol(CardSuperClass):\n    pass\nclass Swipe(CardSuperClass):\n    pass\nclass ThickhideKodo(CardSuperClass):\n    pass\nclass WitchwoodApple(CardSuperClass):\n    pass\nclass Wrath(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "Swipe",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class Swipe(CardSuperClass):\n    pass\nclass ThickhideKodo(CardSuperClass):\n    pass\nclass WitchwoodApple(CardSuperClass):\n    pass\nclass Wrath(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "ThickhideKodo",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class ThickhideKodo(CardSuperClass):\n    pass\nclass WitchwoodApple(CardSuperClass):\n    pass\nclass Wrath(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "WitchwoodApple",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class WitchwoodApple(CardSuperClass):\n    pass\nclass Wrath(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "Wrath",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.druid",
+        "description": "CardLib.sets.core.druid",
+        "peekOfCode": "class Wrath(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.druid",
+        "documentation": {}
+    },
+    {
+        "label": "AnimalCompanion",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class AnimalCompanion(CardSuperClass):\n    pass\nclass ArcaneShot(CardSuperClass):\n    pass\nclass BallOfSpiders(CardSuperClass):\n    pass\nclass BarakKodobane(CardSuperClass):\n    pass\nclass DeadlyShot(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "ArcaneShot",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class ArcaneShot(CardSuperClass):\n    pass\nclass BallOfSpiders(CardSuperClass):\n    pass\nclass BarakKodobane(CardSuperClass):\n    pass\nclass DeadlyShot(CardSuperClass):\n    pass\nclass Dragonbane(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "BallOfSpiders",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class BallOfSpiders(CardSuperClass):\n    pass\nclass BarakKodobane(CardSuperClass):\n    pass\nclass DeadlyShot(CardSuperClass):\n    pass\nclass Dragonbane(CardSuperClass):\n    pass\nclass ExplosiveTrap(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "BarakKodobane",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class BarakKodobane(CardSuperClass):\n    pass\nclass DeadlyShot(CardSuperClass):\n    pass\nclass Dragonbane(CardSuperClass):\n    pass\nclass ExplosiveTrap(CardSuperClass):\n    pass\nclass FreezingTrap(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "DeadlyShot",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class DeadlyShot(CardSuperClass):\n    pass\nclass Dragonbane(CardSuperClass):\n    pass\nclass ExplosiveTrap(CardSuperClass):\n    pass\nclass FreezingTrap(CardSuperClass):\n    pass\nclass IceTrap(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "Dragonbane",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class Dragonbane(CardSuperClass):\n    pass\nclass ExplosiveTrap(CardSuperClass):\n    pass\nclass FreezingTrap(CardSuperClass):\n    pass\nclass IceTrap(CardSuperClass):\n    pass\nclass JeweledMacaw(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "ExplosiveTrap",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class ExplosiveTrap(CardSuperClass):\n    pass\nclass FreezingTrap(CardSuperClass):\n    pass\nclass IceTrap(CardSuperClass):\n    pass\nclass JeweledMacaw(CardSuperClass):\n    pass\nclass KillCommand(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "FreezingTrap",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class FreezingTrap(CardSuperClass):\n    pass\nclass IceTrap(CardSuperClass):\n    pass\nclass JeweledMacaw(CardSuperClass):\n    pass\nclass KillCommand(CardSuperClass):\n    pass\nclass LesserEmeraldSpellstone(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "IceTrap",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class IceTrap(CardSuperClass):\n    pass\nclass JeweledMacaw(CardSuperClass):\n    pass\nclass KillCommand(CardSuperClass):\n    pass\nclass LesserEmeraldSpellstone(CardSuperClass):\n    pass\nclass MastersCall(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "JeweledMacaw",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class JeweledMacaw(CardSuperClass):\n    pass\nclass KillCommand(CardSuperClass):\n    pass\nclass LesserEmeraldSpellstone(CardSuperClass):\n    pass\nclass MastersCall(CardSuperClass):\n    pass\nclass QuickShot(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "KillCommand",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class KillCommand(CardSuperClass):\n    pass\nclass LesserEmeraldSpellstone(CardSuperClass):\n    pass\nclass MastersCall(CardSuperClass):\n    pass\nclass QuickShot(CardSuperClass):\n    pass\nclass RatTrap(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "LesserEmeraldSpellstone",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class LesserEmeraldSpellstone(CardSuperClass):\n    pass\nclass MastersCall(CardSuperClass):\n    pass\nclass QuickShot(CardSuperClass):\n    pass\nclass RatTrap(CardSuperClass):\n    pass\nclass SavannahHighmane(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "MastersCall",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class MastersCall(CardSuperClass):\n    pass\nclass QuickShot(CardSuperClass):\n    pass\nclass RatTrap(CardSuperClass):\n    pass\nclass SavannahHighmane(CardSuperClass):\n    pass\nclass Tracking(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "QuickShot",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class QuickShot(CardSuperClass):\n    pass\nclass RatTrap(CardSuperClass):\n    pass\nclass SavannahHighmane(CardSuperClass):\n    pass\nclass Tracking(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "RatTrap",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class RatTrap(CardSuperClass):\n    pass\nclass SavannahHighmane(CardSuperClass):\n    pass\nclass Tracking(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "SavannahHighmane",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class SavannahHighmane(CardSuperClass):\n    pass\nclass Tracking(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "Tracking",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.hunter",
+        "description": "CardLib.sets.core.hunter",
+        "peekOfCode": "class Tracking(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.hunter",
+        "documentation": {}
+    },
+    {
+        "label": "ArcaneArtificer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class ArcaneArtificer(CardSuperClass):\n    pass\nclass ArcaneIntellect(CardSuperClass):\n    pass\nclass Arcanologist(CardSuperClass):\n    pass\nclass BabblingBook(CardSuperClass):\n    pass\nclass Blizzard(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "ArcaneIntellect",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class ArcaneIntellect(CardSuperClass):\n    pass\nclass Arcanologist(CardSuperClass):\n    pass\nclass BabblingBook(CardSuperClass):\n    pass\nclass Blizzard(CardSuperClass):\n    pass\nclass Counterspell(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "Arcanologist",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class Arcanologist(CardSuperClass):\n    pass\nclass BabblingBook(CardSuperClass):\n    pass\nclass Blizzard(CardSuperClass):\n    pass\nclass Counterspell(CardSuperClass):\n    pass\nclass ExplosiveRunes(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "BabblingBook",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class BabblingBook(CardSuperClass):\n    pass\nclass Blizzard(CardSuperClass):\n    pass\nclass Counterspell(CardSuperClass):\n    pass\nclass ExplosiveRunes(CardSuperClass):\n    pass\nclass Fireball(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "Blizzard",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class Blizzard(CardSuperClass):\n    pass\nclass Counterspell(CardSuperClass):\n    pass\nclass ExplosiveRunes(CardSuperClass):\n    pass\nclass Fireball(CardSuperClass):\n    pass\nclass FirelandsPortal(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "Counterspell",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class Counterspell(CardSuperClass):\n    pass\nclass ExplosiveRunes(CardSuperClass):\n    pass\nclass Fireball(CardSuperClass):\n    pass\nclass FirelandsPortal(CardSuperClass):\n    pass\nclass FlameGeyser(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "ExplosiveRunes",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class ExplosiveRunes(CardSuperClass):\n    pass\nclass Fireball(CardSuperClass):\n    pass\nclass FirelandsPortal(CardSuperClass):\n    pass\nclass FlameGeyser(CardSuperClass):\n    pass\nclass Flamestrike(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "Fireball",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class Fireball(CardSuperClass):\n    pass\nclass FirelandsPortal(CardSuperClass):\n    pass\nclass FlameGeyser(CardSuperClass):\n    pass\nclass Flamestrike(CardSuperClass):\n    pass\nclass Frostbolt(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "FirelandsPortal",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class FirelandsPortal(CardSuperClass):\n    pass\nclass FlameGeyser(CardSuperClass):\n    pass\nclass Flamestrike(CardSuperClass):\n    pass\nclass Frostbolt(CardSuperClass):\n    pass\nclass IceBarrier(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "FlameGeyser",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class FlameGeyser(CardSuperClass):\n    pass\nclass Flamestrike(CardSuperClass):\n    pass\nclass Frostbolt(CardSuperClass):\n    pass\nclass IceBarrier(CardSuperClass):\n    pass\nclass Kalecgos(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "Flamestrike",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class Flamestrike(CardSuperClass):\n    pass\nclass Frostbolt(CardSuperClass):\n    pass\nclass IceBarrier(CardSuperClass):\n    pass\nclass Kalecgos(CardSuperClass):\n    pass\nclass PrimordialGlyph(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "Frostbolt",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class Frostbolt(CardSuperClass):\n    pass\nclass IceBarrier(CardSuperClass):\n    pass\nclass Kalecgos(CardSuperClass):\n    pass\nclass PrimordialGlyph(CardSuperClass):\n    pass\nclass ShootingStar(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "IceBarrier",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class IceBarrier(CardSuperClass):\n    pass\nclass Kalecgos(CardSuperClass):\n    pass\nclass PrimordialGlyph(CardSuperClass):\n    pass\nclass ShootingStar(CardSuperClass):\n    pass\nclass StargazerLuna(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "Kalecgos",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class Kalecgos(CardSuperClass):\n    pass\nclass PrimordialGlyph(CardSuperClass):\n    pass\nclass ShootingStar(CardSuperClass):\n    pass\nclass StargazerLuna(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "PrimordialGlyph",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class PrimordialGlyph(CardSuperClass):\n    pass\nclass ShootingStar(CardSuperClass):\n    pass\nclass StargazerLuna(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "ShootingStar",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class ShootingStar(CardSuperClass):\n    pass\nclass StargazerLuna(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "StargazerLuna",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.mage",
+        "description": "CardLib.sets.core.mage",
+        "peekOfCode": "class StargazerLuna(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.mage",
+        "documentation": {}
+    },
+    {
+        "label": "AbusiveSergeant",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class AbusiveSergeant(CardSuperClass):\n    pass\nclass AcolyteOfPain(CardSuperClass):\n    pass\nclass Alexstrasza(CardSuperClass):\n    pass\nclass Annoyotron(CardSuperClass):\n    pass\nclass ArmorVendor(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "AcolyteOfPain",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class AcolyteOfPain(CardSuperClass):\n    pass\nclass Alexstrasza(CardSuperClass):\n    pass\nclass Annoyotron(CardSuperClass):\n    pass\nclass ArmorVendor(CardSuperClass):\n    pass\nclass BaronGeddon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Alexstrasza",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Alexstrasza(CardSuperClass):\n    pass\nclass Annoyotron(CardSuperClass):\n    pass\nclass ArmorVendor(CardSuperClass):\n    pass\nclass BaronGeddon(CardSuperClass):\n    pass\nclass BeamingSidekick(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Annoyotron",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Annoyotron(CardSuperClass):\n    pass\nclass ArmorVendor(CardSuperClass):\n    pass\nclass BaronGeddon(CardSuperClass):\n    pass\nclass BeamingSidekick(CardSuperClass):\n    pass\nclass BigGameHunter(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "ArmorVendor",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class ArmorVendor(CardSuperClass):\n    pass\nclass BaronGeddon(CardSuperClass):\n    pass\nclass BeamingSidekick(CardSuperClass):\n    pass\nclass BigGameHunter(CardSuperClass):\n    pass\nclass BloodmageThalnos(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "BaronGeddon",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class BaronGeddon(CardSuperClass):\n    pass\nclass BeamingSidekick(CardSuperClass):\n    pass\nclass BigGameHunter(CardSuperClass):\n    pass\nclass BloodmageThalnos(CardSuperClass):\n    pass\nclass BloodsailRaider(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "BeamingSidekick",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class BeamingSidekick(CardSuperClass):\n    pass\nclass BigGameHunter(CardSuperClass):\n    pass\nclass BloodmageThalnos(CardSuperClass):\n    pass\nclass BloodsailRaider(CardSuperClass):\n    pass\nclass BoulderfistOgre(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "BigGameHunter",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class BigGameHunter(CardSuperClass):\n    pass\nclass BloodmageThalnos(CardSuperClass):\n    pass\nclass BloodsailRaider(CardSuperClass):\n    pass\nclass BoulderfistOgre(CardSuperClass):\n    pass\nclass BronzeGatekeeper(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "BloodmageThalnos",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class BloodmageThalnos(CardSuperClass):\n    pass\nclass BloodsailRaider(CardSuperClass):\n    pass\nclass BoulderfistOgre(CardSuperClass):\n    pass\nclass BronzeGatekeeper(CardSuperClass):\n    pass\nclass ColdlightSeer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "BloodsailRaider",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class BloodsailRaider(CardSuperClass):\n    pass\nclass BoulderfistOgre(CardSuperClass):\n    pass\nclass BronzeGatekeeper(CardSuperClass):\n    pass\nclass ColdlightSeer(CardSuperClass):\n    pass\nclass CrazedAlchemist(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "BoulderfistOgre",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class BoulderfistOgre(CardSuperClass):\n    pass\nclass BronzeGatekeeper(CardSuperClass):\n    pass\nclass ColdlightSeer(CardSuperClass):\n    pass\nclass CrazedAlchemist(CardSuperClass):\n    pass\nclass CultNeophyte(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "BronzeGatekeeper",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class BronzeGatekeeper(CardSuperClass):\n    pass\nclass ColdlightSeer(CardSuperClass):\n    pass\nclass CrazedAlchemist(CardSuperClass):\n    pass\nclass CultNeophyte(CardSuperClass):\n    pass\nclass DeathwingTheDestroyer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "ColdlightSeer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class ColdlightSeer(CardSuperClass):\n    pass\nclass CrazedAlchemist(CardSuperClass):\n    pass\nclass CultNeophyte(CardSuperClass):\n    pass\nclass DeathwingTheDestroyer(CardSuperClass):\n    pass\nclass DefenderOfArgus(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "CrazedAlchemist",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class CrazedAlchemist(CardSuperClass):\n    pass\nclass CultNeophyte(CardSuperClass):\n    pass\nclass DeathwingTheDestroyer(CardSuperClass):\n    pass\nclass DefenderOfArgus(CardSuperClass):\n    pass\nclass DemolitionRenovator(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "CultNeophyte",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class CultNeophyte(CardSuperClass):\n    pass\nclass DeathwingTheDestroyer(CardSuperClass):\n    pass\nclass DefenderOfArgus(CardSuperClass):\n    pass\nclass DemolitionRenovator(CardSuperClass):\n    pass\nclass DireWolfAlpha(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "DeathwingTheDestroyer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class DeathwingTheDestroyer(CardSuperClass):\n    pass\nclass DefenderOfArgus(CardSuperClass):\n    pass\nclass DemolitionRenovator(CardSuperClass):\n    pass\nclass DireWolfAlpha(CardSuperClass):\n    pass\nclass DirtyRat(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "DefenderOfArgus",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class DefenderOfArgus(CardSuperClass):\n    pass\nclass DemolitionRenovator(CardSuperClass):\n    pass\nclass DireWolfAlpha(CardSuperClass):\n    pass\nclass DirtyRat(CardSuperClass):\n    pass\nclass Doomsayer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "DemolitionRenovator",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class DemolitionRenovator(CardSuperClass):\n    pass\nclass DireWolfAlpha(CardSuperClass):\n    pass\nclass DirtyRat(CardSuperClass):\n    pass\nclass Doomsayer(CardSuperClass):\n    pass\nclass DreadCorsair(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "DireWolfAlpha",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class DireWolfAlpha(CardSuperClass):\n    pass\nclass DirtyRat(CardSuperClass):\n    pass\nclass Doomsayer(CardSuperClass):\n    pass\nclass DreadCorsair(CardSuperClass):\n    pass\nclass ElvenArcher(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "DirtyRat",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class DirtyRat(CardSuperClass):\n    pass\nclass Doomsayer(CardSuperClass):\n    pass\nclass DreadCorsair(CardSuperClass):\n    pass\nclass ElvenArcher(CardSuperClass):\n    pass\nclass EvasiveWyrm(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Doomsayer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Doomsayer(CardSuperClass):\n    pass\nclass DreadCorsair(CardSuperClass):\n    pass\nclass ElvenArcher(CardSuperClass):\n    pass\nclass EvasiveWyrm(CardSuperClass):\n    pass\nclass FaerieDragon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "DreadCorsair",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class DreadCorsair(CardSuperClass):\n    pass\nclass ElvenArcher(CardSuperClass):\n    pass\nclass EvasiveWyrm(CardSuperClass):\n    pass\nclass FaerieDragon(CardSuperClass):\n    pass\nclass FireFly(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "ElvenArcher",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class ElvenArcher(CardSuperClass):\n    pass\nclass EvasiveWyrm(CardSuperClass):\n    pass\nclass FaerieDragon(CardSuperClass):\n    pass\nclass FireFly(CardSuperClass):\n    pass\nclass FogsailFreebooter(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "EvasiveWyrm",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class EvasiveWyrm(CardSuperClass):\n    pass\nclass FaerieDragon(CardSuperClass):\n    pass\nclass FireFly(CardSuperClass):\n    pass\nclass FogsailFreebooter(CardSuperClass):\n    pass\nclass Footman(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "FaerieDragon",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class FaerieDragon(CardSuperClass):\n    pass\nclass FireFly(CardSuperClass):\n    pass\nclass FogsailFreebooter(CardSuperClass):\n    pass\nclass Footman(CardSuperClass):\n    pass\nclass GlacialShard(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "FireFly",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class FireFly(CardSuperClass):\n    pass\nclass FogsailFreebooter(CardSuperClass):\n    pass\nclass Footman(CardSuperClass):\n    pass\nclass GlacialShard(CardSuperClass):\n    pass\nclass GnomeliaSafePilot(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "FogsailFreebooter",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class FogsailFreebooter(CardSuperClass):\n    pass\nclass Footman(CardSuperClass):\n    pass\nclass GlacialShard(CardSuperClass):\n    pass\nclass GnomeliaSafePilot(CardSuperClass):\n    pass\nclass GorillabotA3(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Footman",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Footman(CardSuperClass):\n    pass\nclass GlacialShard(CardSuperClass):\n    pass\nclass GnomeliaSafePilot(CardSuperClass):\n    pass\nclass GorillabotA3(CardSuperClass):\n    pass\nclass HenchclanThug(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "GlacialShard",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class GlacialShard(CardSuperClass):\n    pass\nclass GnomeliaSafePilot(CardSuperClass):\n    pass\nclass GorillabotA3(CardSuperClass):\n    pass\nclass HenchclanThug(CardSuperClass):\n    pass\nclass InjuredTolvir(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "GnomeliaSafePilot",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class GnomeliaSafePilot(CardSuperClass):\n    pass\nclass GorillabotA3(CardSuperClass):\n    pass\nclass HenchclanThug(CardSuperClass):\n    pass\nclass InjuredTolvir(CardSuperClass):\n    pass\nclass JusticarTrueheart(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "GorillabotA3",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class GorillabotA3(CardSuperClass):\n    pass\nclass HenchclanThug(CardSuperClass):\n    pass\nclass InjuredTolvir(CardSuperClass):\n    pass\nclass JusticarTrueheart(CardSuperClass):\n    pass\nclass KoboldGeomancer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "HenchclanThug",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class HenchclanThug(CardSuperClass):\n    pass\nclass InjuredTolvir(CardSuperClass):\n    pass\nclass JusticarTrueheart(CardSuperClass):\n    pass\nclass KoboldGeomancer(CardSuperClass):\n    pass\nclass LeeroyJenkins(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "InjuredTolvir",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class InjuredTolvir(CardSuperClass):\n    pass\nclass JusticarTrueheart(CardSuperClass):\n    pass\nclass KoboldGeomancer(CardSuperClass):\n    pass\nclass LeeroyJenkins(CardSuperClass):\n    pass\nclass Lifedrinker(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "JusticarTrueheart",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class JusticarTrueheart(CardSuperClass):\n    pass\nclass KoboldGeomancer(CardSuperClass):\n    pass\nclass LeeroyJenkins(CardSuperClass):\n    pass\nclass Lifedrinker(CardSuperClass):\n    pass\nclass LootHoarder(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "KoboldGeomancer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class KoboldGeomancer(CardSuperClass):\n    pass\nclass LeeroyJenkins(CardSuperClass):\n    pass\nclass Lifedrinker(CardSuperClass):\n    pass\nclass LootHoarder(CardSuperClass):\n    pass\nclass MadBomber(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "LeeroyJenkins",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class LeeroyJenkins(CardSuperClass):\n    pass\nclass Lifedrinker(CardSuperClass):\n    pass\nclass LootHoarder(CardSuperClass):\n    pass\nclass MadBomber(CardSuperClass):\n    pass\nclass MalygosTheSpellweaver(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Lifedrinker",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Lifedrinker(CardSuperClass):\n    pass\nclass LootHoarder(CardSuperClass):\n    pass\nclass MadBomber(CardSuperClass):\n    pass\nclass MalygosTheSpellweaver(CardSuperClass):\n    pass\nclass MindControlTech(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "LootHoarder",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class LootHoarder(CardSuperClass):\n    pass\nclass MadBomber(CardSuperClass):\n    pass\nclass MalygosTheSpellweaver(CardSuperClass):\n    pass\nclass MindControlTech(CardSuperClass):\n    pass\nclass MoltenGiant(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "MadBomber",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class MadBomber(CardSuperClass):\n    pass\nclass MalygosTheSpellweaver(CardSuperClass):\n    pass\nclass MindControlTech(CardSuperClass):\n    pass\nclass MoltenGiant(CardSuperClass):\n    pass\nclass MountainGiant(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "MalygosTheSpellweaver",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class MalygosTheSpellweaver(CardSuperClass):\n    pass\nclass MindControlTech(CardSuperClass):\n    pass\nclass MoltenGiant(CardSuperClass):\n    pass\nclass MountainGiant(CardSuperClass):\n    pass\nclass MurlocTidecaller(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "MindControlTech",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class MindControlTech(CardSuperClass):\n    pass\nclass MoltenGiant(CardSuperClass):\n    pass\nclass MountainGiant(CardSuperClass):\n    pass\nclass MurlocTidecaller(CardSuperClass):\n    pass\nclass MurlocTidehunter(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "MoltenGiant",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class MoltenGiant(CardSuperClass):\n    pass\nclass MountainGiant(CardSuperClass):\n    pass\nclass MurlocTidecaller(CardSuperClass):\n    pass\nclass MurlocTidehunter(CardSuperClass):\n    pass\nclass MurlocWarleader(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "MountainGiant",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class MountainGiant(CardSuperClass):\n    pass\nclass MurlocTidecaller(CardSuperClass):\n    pass\nclass MurlocTidehunter(CardSuperClass):\n    pass\nclass MurlocWarleader(CardSuperClass):\n    pass\nclass Murmy(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "MurlocTidecaller",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class MurlocTidecaller(CardSuperClass):\n    pass\nclass MurlocTidehunter(CardSuperClass):\n    pass\nclass MurlocWarleader(CardSuperClass):\n    pass\nclass Murmy(CardSuperClass):\n    pass\nclass NerubianEgg(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "MurlocTidehunter",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class MurlocTidehunter(CardSuperClass):\n    pass\nclass MurlocWarleader(CardSuperClass):\n    pass\nclass Murmy(CardSuperClass):\n    pass\nclass NerubianEgg(CardSuperClass):\n    pass\nclass NightElfHuntress(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "MurlocWarleader",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class MurlocWarleader(CardSuperClass):\n    pass\nclass Murmy(CardSuperClass):\n    pass\nclass NerubianEgg(CardSuperClass):\n    pass\nclass NightElfHuntress(CardSuperClass):\n    pass\nclass NozdormuTheEternal(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Murmy",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Murmy(CardSuperClass):\n    pass\nclass NerubianEgg(CardSuperClass):\n    pass\nclass NightElfHuntress(CardSuperClass):\n    pass\nclass NozdormuTheEternal(CardSuperClass):\n    pass\nclass OnyxiaTheBroodmother(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "NerubianEgg",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class NerubianEgg(CardSuperClass):\n    pass\nclass NightElfHuntress(CardSuperClass):\n    pass\nclass NozdormuTheEternal(CardSuperClass):\n    pass\nclass OnyxiaTheBroodmother(CardSuperClass):\n    pass\nclass OverlordRunthak(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "NightElfHuntress",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class NightElfHuntress(CardSuperClass):\n    pass\nclass NozdormuTheEternal(CardSuperClass):\n    pass\nclass OnyxiaTheBroodmother(CardSuperClass):\n    pass\nclass OverlordRunthak(CardSuperClass):\n    pass\nclass PlatedBeetle(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "NozdormuTheEternal",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class NozdormuTheEternal(CardSuperClass):\n    pass\nclass OnyxiaTheBroodmother(CardSuperClass):\n    pass\nclass OverlordRunthak(CardSuperClass):\n    pass\nclass PlatedBeetle(CardSuperClass):\n    pass\nclass PrimordialDrake(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "OnyxiaTheBroodmother",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class OnyxiaTheBroodmother(CardSuperClass):\n    pass\nclass OverlordRunthak(CardSuperClass):\n    pass\nclass PlatedBeetle(CardSuperClass):\n    pass\nclass PrimordialDrake(CardSuperClass):\n    pass\nclass RagnarosTheFirelord(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "OverlordRunthak",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class OverlordRunthak(CardSuperClass):\n    pass\nclass PlatedBeetle(CardSuperClass):\n    pass\nclass PrimordialDrake(CardSuperClass):\n    pass\nclass RagnarosTheFirelord(CardSuperClass):\n    pass\nclass RaidLeader(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "PlatedBeetle",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class PlatedBeetle(CardSuperClass):\n    pass\nclass PrimordialDrake(CardSuperClass):\n    pass\nclass RagnarosTheFirelord(CardSuperClass):\n    pass\nclass RaidLeader(CardSuperClass):\n    pass\nclass RedgillRazorjaw(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "PrimordialDrake",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class PrimordialDrake(CardSuperClass):\n    pass\nclass RagnarosTheFirelord(CardSuperClass):\n    pass\nclass RaidLeader(CardSuperClass):\n    pass\nclass RedgillRazorjaw(CardSuperClass):\n    pass\nclass ReplicatingMenace(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "RagnarosTheFirelord",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class RagnarosTheFirelord(CardSuperClass):\n    pass\nclass RaidLeader(CardSuperClass):\n    pass\nclass RedgillRazorjaw(CardSuperClass):\n    pass\nclass ReplicatingMenace(CardSuperClass):\n    pass\nclass RoyalLibrarian(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "RaidLeader",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class RaidLeader(CardSuperClass):\n    pass\nclass RedgillRazorjaw(CardSuperClass):\n    pass\nclass ReplicatingMenace(CardSuperClass):\n    pass\nclass RoyalLibrarian(CardSuperClass):\n    pass\nclass RustrotViper(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "RedgillRazorjaw",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class RedgillRazorjaw(CardSuperClass):\n    pass\nclass ReplicatingMenace(CardSuperClass):\n    pass\nclass RoyalLibrarian(CardSuperClass):\n    pass\nclass RustrotViper(CardSuperClass):\n    pass\nclass SeaGiant(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "ReplicatingMenace",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class ReplicatingMenace(CardSuperClass):\n    pass\nclass RoyalLibrarian(CardSuperClass):\n    pass\nclass RustrotViper(CardSuperClass):\n    pass\nclass SeaGiant(CardSuperClass):\n    pass\nclass SenjinShieldmasta(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "RoyalLibrarian",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class RoyalLibrarian(CardSuperClass):\n    pass\nclass RustrotViper(CardSuperClass):\n    pass\nclass SeaGiant(CardSuperClass):\n    pass\nclass SenjinShieldmasta(CardSuperClass):\n    pass\nclass Siamat(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "RustrotViper",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class RustrotViper(CardSuperClass):\n    pass\nclass SeaGiant(CardSuperClass):\n    pass\nclass SenjinShieldmasta(CardSuperClass):\n    pass\nclass Siamat(CardSuperClass):\n    pass\nclass SleepyDragon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "SeaGiant",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class SeaGiant(CardSuperClass):\n    pass\nclass SenjinShieldmasta(CardSuperClass):\n    pass\nclass Siamat(CardSuperClass):\n    pass\nclass SleepyDragon(CardSuperClass):\n    pass\nclass SnowflipperPenguin(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "SenjinShieldmasta",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class SenjinShieldmasta(CardSuperClass):\n    pass\nclass Siamat(CardSuperClass):\n    pass\nclass SleepyDragon(CardSuperClass):\n    pass\nclass SnowflipperPenguin(CardSuperClass):\n    pass\nclass SouthseaCaptain(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Siamat",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Siamat(CardSuperClass):\n    pass\nclass SleepyDragon(CardSuperClass):\n    pass\nclass SnowflipperPenguin(CardSuperClass):\n    pass\nclass SouthseaCaptain(CardSuperClass):\n    pass\nclass SouthseaDeckhand(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "SleepyDragon",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class SleepyDragon(CardSuperClass):\n    pass\nclass SnowflipperPenguin(CardSuperClass):\n    pass\nclass SouthseaCaptain(CardSuperClass):\n    pass\nclass SouthseaDeckhand(CardSuperClass):\n    pass\nclass StonehillDefender(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "SnowflipperPenguin",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class SnowflipperPenguin(CardSuperClass):\n    pass\nclass SouthseaCaptain(CardSuperClass):\n    pass\nclass SouthseaDeckhand(CardSuperClass):\n    pass\nclass StonehillDefender(CardSuperClass):\n    pass\nclass StormwindChampion(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "SouthseaCaptain",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class SouthseaCaptain(CardSuperClass):\n    pass\nclass SouthseaDeckhand(CardSuperClass):\n    pass\nclass StonehillDefender(CardSuperClass):\n    pass\nclass StormwindChampion(CardSuperClass):\n    pass\nclass StranglethornTiger(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "SouthseaDeckhand",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class SouthseaDeckhand(CardSuperClass):\n    pass\nclass StonehillDefender(CardSuperClass):\n    pass\nclass StormwindChampion(CardSuperClass):\n    pass\nclass StranglethornTiger(CardSuperClass):\n    pass\nclass SylvanasWindrunner(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "StonehillDefender",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class StonehillDefender(CardSuperClass):\n    pass\nclass StormwindChampion(CardSuperClass):\n    pass\nclass StranglethornTiger(CardSuperClass):\n    pass\nclass SylvanasWindrunner(CardSuperClass):\n    pass\nclass TaelanFordring(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "StormwindChampion",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class StormwindChampion(CardSuperClass):\n    pass\nclass StranglethornTiger(CardSuperClass):\n    pass\nclass SylvanasWindrunner(CardSuperClass):\n    pass\nclass TaelanFordring(CardSuperClass):\n    pass\nclass TarCreeper(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "StranglethornTiger",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class StranglethornTiger(CardSuperClass):\n    pass\nclass SylvanasWindrunner(CardSuperClass):\n    pass\nclass TaelanFordring(CardSuperClass):\n    pass\nclass TarCreeper(CardSuperClass):\n    pass\nclass TwilightDrake(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "SylvanasWindrunner",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class SylvanasWindrunner(CardSuperClass):\n    pass\nclass TaelanFordring(CardSuperClass):\n    pass\nclass TarCreeper(CardSuperClass):\n    pass\nclass TwilightDrake(CardSuperClass):\n    pass\nclass ViciousSlitherspear(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "TaelanFordring",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class TaelanFordring(CardSuperClass):\n    pass\nclass TarCreeper(CardSuperClass):\n    pass\nclass TwilightDrake(CardSuperClass):\n    pass\nclass ViciousSlitherspear(CardSuperClass):\n    pass\nclass VoodooDoctor(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "TarCreeper",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class TarCreeper(CardSuperClass):\n    pass\nclass TwilightDrake(CardSuperClass):\n    pass\nclass ViciousSlitherspear(CardSuperClass):\n    pass\nclass VoodooDoctor(CardSuperClass):\n    pass\nclass VulperaScoundrel(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "TwilightDrake",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class TwilightDrake(CardSuperClass):\n    pass\nclass ViciousSlitherspear(CardSuperClass):\n    pass\nclass VoodooDoctor(CardSuperClass):\n    pass\nclass VulperaScoundrel(CardSuperClass):\n    pass\nclass Wandmaker(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "ViciousSlitherspear",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class ViciousSlitherspear(CardSuperClass):\n    pass\nclass VoodooDoctor(CardSuperClass):\n    pass\nclass VulperaScoundrel(CardSuperClass):\n    pass\nclass Wandmaker(CardSuperClass):\n    pass\nclass Wargear(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "VoodooDoctor",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class VoodooDoctor(CardSuperClass):\n    pass\nclass VulperaScoundrel(CardSuperClass):\n    pass\nclass Wandmaker(CardSuperClass):\n    pass\nclass Wargear(CardSuperClass):\n    pass\nclass WarsongGrunt(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "VulperaScoundrel",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class VulperaScoundrel(CardSuperClass):\n    pass\nclass Wandmaker(CardSuperClass):\n    pass\nclass Wargear(CardSuperClass):\n    pass\nclass WarsongGrunt(CardSuperClass):\n    pass\nclass WildPyromancer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Wandmaker",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Wandmaker(CardSuperClass):\n    pass\nclass Wargear(CardSuperClass):\n    pass\nclass WarsongGrunt(CardSuperClass):\n    pass\nclass WildPyromancer(CardSuperClass):\n    pass\nclass WorgenInfiltrator(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Wargear",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Wargear(CardSuperClass):\n    pass\nclass WarsongGrunt(CardSuperClass):\n    pass\nclass WildPyromancer(CardSuperClass):\n    pass\nclass WorgenInfiltrator(CardSuperClass):\n    pass\nclass YouthfulBrewmaster(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "WarsongGrunt",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class WarsongGrunt(CardSuperClass):\n    pass\nclass WildPyromancer(CardSuperClass):\n    pass\nclass WorgenInfiltrator(CardSuperClass):\n    pass\nclass YouthfulBrewmaster(CardSuperClass):\n    pass\nclass Ysera(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "WildPyromancer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class WildPyromancer(CardSuperClass):\n    pass\nclass WorgenInfiltrator(CardSuperClass):\n    pass\nclass YouthfulBrewmaster(CardSuperClass):\n    pass\nclass Ysera(CardSuperClass):\n    pass\nclass ZolaTheGorgon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "WorgenInfiltrator",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class WorgenInfiltrator(CardSuperClass):\n    pass\nclass YouthfulBrewmaster(CardSuperClass):\n    pass\nclass Ysera(CardSuperClass):\n    pass\nclass ZolaTheGorgon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "YouthfulBrewmaster",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class YouthfulBrewmaster(CardSuperClass):\n    pass\nclass Ysera(CardSuperClass):\n    pass\nclass ZolaTheGorgon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "Ysera",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class Ysera(CardSuperClass):\n    pass\nclass ZolaTheGorgon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "ZolaTheGorgon",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.neutral",
+        "description": "CardLib.sets.core.neutral",
+        "peekOfCode": "class ZolaTheGorgon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.neutral",
+        "documentation": {}
+    },
+    {
+        "label": "ArgentProtector",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class ArgentProtector(CardSuperClass):\n    pass\nclass BronzeExplorer(CardSuperClass):\n    pass\nclass Consecration(CardSuperClass):\n    pass\nclass CrusaderAura(CardSuperClass):\n    pass\nclass Equality(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "BronzeExplorer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class BronzeExplorer(CardSuperClass):\n    pass\nclass Consecration(CardSuperClass):\n    pass\nclass CrusaderAura(CardSuperClass):\n    pass\nclass Equality(CardSuperClass):\n    pass\nclass FlashOfLight(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "Consecration",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class Consecration(CardSuperClass):\n    pass\nclass CrusaderAura(CardSuperClass):\n    pass\nclass Equality(CardSuperClass):\n    pass\nclass FlashOfLight(CardSuperClass):\n    pass\nclass GrimestreetOutfitter(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "CrusaderAura",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class CrusaderAura(CardSuperClass):\n    pass\nclass Equality(CardSuperClass):\n    pass\nclass FlashOfLight(CardSuperClass):\n    pass\nclass GrimestreetOutfitter(CardSuperClass):\n    pass\nclass HammerOfWrath(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "Equality",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class Equality(CardSuperClass):\n    pass\nclass FlashOfLight(CardSuperClass):\n    pass\nclass GrimestreetOutfitter(CardSuperClass):\n    pass\nclass HammerOfWrath(CardSuperClass):\n    pass\nclass HammerOfTheNaaru(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "FlashOfLight",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class FlashOfLight(CardSuperClass):\n    pass\nclass GrimestreetOutfitter(CardSuperClass):\n    pass\nclass HammerOfWrath(CardSuperClass):\n    pass\nclass HammerOfTheNaaru(CardSuperClass):\n    pass\nclass HandOfAdal(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "GrimestreetOutfitter",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class GrimestreetOutfitter(CardSuperClass):\n    pass\nclass HammerOfWrath(CardSuperClass):\n    pass\nclass HammerOfTheNaaru(CardSuperClass):\n    pass\nclass HandOfAdal(CardSuperClass):\n    pass\nclass LadyLiadrin(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "HammerOfWrath",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class HammerOfWrath(CardSuperClass):\n    pass\nclass HammerOfTheNaaru(CardSuperClass):\n    pass\nclass HandOfAdal(CardSuperClass):\n    pass\nclass LadyLiadrin(CardSuperClass):\n    pass\nclass MusterForBattle(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "HammerOfTheNaaru",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class HammerOfTheNaaru(CardSuperClass):\n    pass\nclass HandOfAdal(CardSuperClass):\n    pass\nclass LadyLiadrin(CardSuperClass):\n    pass\nclass MusterForBattle(CardSuperClass):\n    pass\nclass ResistanceAura(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "HandOfAdal",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class HandOfAdal(CardSuperClass):\n    pass\nclass LadyLiadrin(CardSuperClass):\n    pass\nclass MusterForBattle(CardSuperClass):\n    pass\nclass ResistanceAura(CardSuperClass):\n    pass\nclass RighteousProtector(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "LadyLiadrin",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class LadyLiadrin(CardSuperClass):\n    pass\nclass MusterForBattle(CardSuperClass):\n    pass\nclass ResistanceAura(CardSuperClass):\n    pass\nclass RighteousProtector(CardSuperClass):\n    pass\nclass SilvermoonPortal(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "MusterForBattle",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class MusterForBattle(CardSuperClass):\n    pass\nclass ResistanceAura(CardSuperClass):\n    pass\nclass RighteousProtector(CardSuperClass):\n    pass\nclass SilvermoonPortal(CardSuperClass):\n    pass\nclass SpikeridgedSteed(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "ResistanceAura",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class ResistanceAura(CardSuperClass):\n    pass\nclass RighteousProtector(CardSuperClass):\n    pass\nclass SilvermoonPortal(CardSuperClass):\n    pass\nclass SpikeridgedSteed(CardSuperClass):\n    pass\nclass StandAgainstDarkness(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "RighteousProtector",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class RighteousProtector(CardSuperClass):\n    pass\nclass SilvermoonPortal(CardSuperClass):\n    pass\nclass SpikeridgedSteed(CardSuperClass):\n    pass\nclass StandAgainstDarkness(CardSuperClass):\n    pass\nclass TirionFordring(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "SilvermoonPortal",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class SilvermoonPortal(CardSuperClass):\n    pass\nclass SpikeridgedSteed(CardSuperClass):\n    pass\nclass StandAgainstDarkness(CardSuperClass):\n    pass\nclass TirionFordring(CardSuperClass):\n    pass\nclass WarhorseTrainer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "SpikeridgedSteed",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class SpikeridgedSteed(CardSuperClass):\n    pass\nclass StandAgainstDarkness(CardSuperClass):\n    pass\nclass TirionFordring(CardSuperClass):\n    pass\nclass WarhorseTrainer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "StandAgainstDarkness",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class StandAgainstDarkness(CardSuperClass):\n    pass\nclass TirionFordring(CardSuperClass):\n    pass\nclass WarhorseTrainer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "TirionFordring",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class TirionFordring(CardSuperClass):\n    pass\nclass WarhorseTrainer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "WarhorseTrainer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.paladin",
+        "description": "CardLib.sets.core.paladin",
+        "peekOfCode": "class WarhorseTrainer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.paladin",
+        "documentation": {}
+    },
+    {
+        "label": "CatrinaMuerte",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class CatrinaMuerte(CardSuperClass):\n    pass\nclass CrimsonClergy(CardSuperClass):\n    pass\nclass FlashHeal(CardSuperClass):\n    pass\nclass HolyNova(CardSuperClass):\n    pass\nclass HolySmite(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "CrimsonClergy",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class CrimsonClergy(CardSuperClass):\n    pass\nclass FlashHeal(CardSuperClass):\n    pass\nclass HolyNova(CardSuperClass):\n    pass\nclass HolySmite(CardSuperClass):\n    pass\nclass LesserDiamondSpellstone(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "FlashHeal",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class FlashHeal(CardSuperClass):\n    pass\nclass HolyNova(CardSuperClass):\n    pass\nclass HolySmite(CardSuperClass):\n    pass\nclass LesserDiamondSpellstone(CardSuperClass):\n    pass\nclass Lightbomb(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "HolyNova",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class HolyNova(CardSuperClass):\n    pass\nclass HolySmite(CardSuperClass):\n    pass\nclass LesserDiamondSpellstone(CardSuperClass):\n    pass\nclass Lightbomb(CardSuperClass):\n    pass\nclass MadameLazul(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "HolySmite",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class HolySmite(CardSuperClass):\n    pass\nclass LesserDiamondSpellstone(CardSuperClass):\n    pass\nclass Lightbomb(CardSuperClass):\n    pass\nclass MadameLazul(CardSuperClass):\n    pass\nclass ManaGeode(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "LesserDiamondSpellstone",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class LesserDiamondSpellstone(CardSuperClass):\n    pass\nclass Lightbomb(CardSuperClass):\n    pass\nclass MadameLazul(CardSuperClass):\n    pass\nclass ManaGeode(CardSuperClass):\n    pass\nclass ObsidianStatue(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "Lightbomb",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class Lightbomb(CardSuperClass):\n    pass\nclass MadameLazul(CardSuperClass):\n    pass\nclass ManaGeode(CardSuperClass):\n    pass\nclass ObsidianStatue(CardSuperClass):\n    pass\nclass PsychicConjurer(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "MadameLazul",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class MadameLazul(CardSuperClass):\n    pass\nclass ManaGeode(CardSuperClass):\n    pass\nclass ObsidianStatue(CardSuperClass):\n    pass\nclass PsychicConjurer(CardSuperClass):\n    pass\nclass ShadowAscendant(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "ManaGeode",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class ManaGeode(CardSuperClass):\n    pass\nclass ObsidianStatue(CardSuperClass):\n    pass\nclass PsychicConjurer(CardSuperClass):\n    pass\nclass ShadowAscendant(CardSuperClass):\n    pass\nclass ShadowWordPain(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "ObsidianStatue",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class ObsidianStatue(CardSuperClass):\n    pass\nclass PsychicConjurer(CardSuperClass):\n    pass\nclass ShadowAscendant(CardSuperClass):\n    pass\nclass ShadowWordPain(CardSuperClass):\n    pass\nclass ShadowWordRuin(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "PsychicConjurer",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class PsychicConjurer(CardSuperClass):\n    pass\nclass ShadowAscendant(CardSuperClass):\n    pass\nclass ShadowWordPain(CardSuperClass):\n    pass\nclass ShadowWordRuin(CardSuperClass):\n    pass\nclass ShipsChirurgeon(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "ShadowAscendant",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class ShadowAscendant(CardSuperClass):\n    pass\nclass ShadowWordPain(CardSuperClass):\n    pass\nclass ShadowWordRuin(CardSuperClass):\n    pass\nclass ShipsChirurgeon(CardSuperClass):\n    pass\nclass ThriveInTheShadows(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "ShadowWordPain",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class ShadowWordPain(CardSuperClass):\n    pass\nclass ShadowWordRuin(CardSuperClass):\n    pass\nclass ShipsChirurgeon(CardSuperClass):\n    pass\nclass ThriveInTheShadows(CardSuperClass):\n    pass\nclass VoidShard(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "ShadowWordRuin",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class ShadowWordRuin(CardSuperClass):\n    pass\nclass ShipsChirurgeon(CardSuperClass):\n    pass\nclass ThriveInTheShadows(CardSuperClass):\n    pass\nclass VoidShard(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "ShipsChirurgeon",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class ShipsChirurgeon(CardSuperClass):\n    pass\nclass ThriveInTheShadows(CardSuperClass):\n    pass\nclass VoidShard(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "ThriveInTheShadows",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class ThriveInTheShadows(CardSuperClass):\n    pass\nclass VoidShard(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "VoidShard",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.priest",
+        "description": "CardLib.sets.core.priest",
+        "peekOfCode": "class VoidShard(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.priest",
+        "documentation": {}
+    },
+    {
+        "label": "Assassinate",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class Assassinate(CardSuperClass):\n    pass\nclass Backstab(CardSuperClass):\n    pass\nclass DeadlyPoison(CardSuperClass):\n    pass\nclass ElvenMinstrel(CardSuperClass):\n    pass\nclass Eviscerate(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Backstab",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class Backstab(CardSuperClass):\n    pass\nclass DeadlyPoison(CardSuperClass):\n    pass\nclass ElvenMinstrel(CardSuperClass):\n    pass\nclass Eviscerate(CardSuperClass):\n    pass\nclass FaldoreiStrider(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "DeadlyPoison",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class DeadlyPoison(CardSuperClass):\n    pass\nclass ElvenMinstrel(CardSuperClass):\n    pass\nclass Eviscerate(CardSuperClass):\n    pass\nclass FaldoreiStrider(CardSuperClass):\n    pass\nclass FanOfKnives(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "ElvenMinstrel",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class ElvenMinstrel(CardSuperClass):\n    pass\nclass Eviscerate(CardSuperClass):\n    pass\nclass FaldoreiStrider(CardSuperClass):\n    pass\nclass FanOfKnives(CardSuperClass):\n    pass\nclass FlikSkyshiv(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Eviscerate",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class Eviscerate(CardSuperClass):\n    pass\nclass FaldoreiStrider(CardSuperClass):\n    pass\nclass FanOfKnives(CardSuperClass):\n    pass\nclass FlikSkyshiv(CardSuperClass):\n    pass\nclass HenchclanBurglar(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "FaldoreiStrider",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class FaldoreiStrider(CardSuperClass):\n    pass\nclass FanOfKnives(CardSuperClass):\n    pass\nclass FlikSkyshiv(CardSuperClass):\n    pass\nclass HenchclanBurglar(CardSuperClass):\n    pass\nclass Preparation(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "FanOfKnives",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class FanOfKnives(CardSuperClass):\n    pass\nclass FlikSkyshiv(CardSuperClass):\n    pass\nclass HenchclanBurglar(CardSuperClass):\n    pass\nclass Preparation(CardSuperClass):\n    pass\nclass RaidingParty(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "FlikSkyshiv",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class FlikSkyshiv(CardSuperClass):\n    pass\nclass HenchclanBurglar(CardSuperClass):\n    pass\nclass Preparation(CardSuperClass):\n    pass\nclass RaidingParty(CardSuperClass):\n    pass\nclass Si7Agent(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "HenchclanBurglar",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class HenchclanBurglar(CardSuperClass):\n    pass\nclass Preparation(CardSuperClass):\n    pass\nclass RaidingParty(CardSuperClass):\n    pass\nclass Si7Agent(CardSuperClass):\n    pass\nclass Sap(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Preparation",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class Preparation(CardSuperClass):\n    pass\nclass RaidingParty(CardSuperClass):\n    pass\nclass Si7Agent(CardSuperClass):\n    pass\nclass Sap(CardSuperClass):\n    pass\nclass Shadowstep(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "RaidingParty",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class RaidingParty(CardSuperClass):\n    pass\nclass Si7Agent(CardSuperClass):\n    pass\nclass Sap(CardSuperClass):\n    pass\nclass Shadowstep(CardSuperClass):\n    pass\nclass SpectralCutlass(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Si7Agent",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class Si7Agent(CardSuperClass):\n    pass\nclass Sap(CardSuperClass):\n    pass\nclass Shadowstep(CardSuperClass):\n    pass\nclass SpectralCutlass(CardSuperClass):\n    pass\nclass Swashburglar(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Sap",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class Sap(CardSuperClass):\n    pass\nclass Shadowstep(CardSuperClass):\n    pass\nclass SpectralCutlass(CardSuperClass):\n    pass\nclass Swashburglar(CardSuperClass):\n    pass\nclass TessGreymane(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Shadowstep",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class Shadowstep(CardSuperClass):\n    pass\nclass SpectralCutlass(CardSuperClass):\n    pass\nclass Swashburglar(CardSuperClass):\n    pass\nclass TessGreymane(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "SpectralCutlass",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class SpectralCutlass(CardSuperClass):\n    pass\nclass Swashburglar(CardSuperClass):\n    pass\nclass TessGreymane(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "Swashburglar",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class Swashburglar(CardSuperClass):\n    pass\nclass TessGreymane(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "TessGreymane",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.rouge",
+        "description": "CardLib.sets.core.rouge",
+        "peekOfCode": "class TessGreymane(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.rouge",
+        "documentation": {}
+    },
+    {
+        "label": "AirElemental",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class AirElemental(CardSuperClass):\n    pass\nclass AlakirTheWindlord(CardSuperClass):\n    pass\nclass AncestralKnowledge(CardSuperClass):\n    pass\nclass FarSight(CardSuperClass):\n    pass\nclass FeralSpirit(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "AlakirTheWindlord",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class AlakirTheWindlord(CardSuperClass):\n    pass\nclass AncestralKnowledge(CardSuperClass):\n    pass\nclass FarSight(CardSuperClass):\n    pass\nclass FeralSpirit(CardSuperClass):\n    pass\nclass FireElemental(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "AncestralKnowledge",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class AncestralKnowledge(CardSuperClass):\n    pass\nclass FarSight(CardSuperClass):\n    pass\nclass FeralSpirit(CardSuperClass):\n    pass\nclass FireElemental(CardSuperClass):\n    pass\nclass FlametongueTotem(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "FarSight",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class FarSight(CardSuperClass):\n    pass\nclass FeralSpirit(CardSuperClass):\n    pass\nclass FireElemental(CardSuperClass):\n    pass\nclass FlametongueTotem(CardSuperClass):\n    pass\nclass Hex(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "FeralSpirit",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class FeralSpirit(CardSuperClass):\n    pass\nclass FireElemental(CardSuperClass):\n    pass\nclass FlametongueTotem(CardSuperClass):\n    pass\nclass Hex(CardSuperClass):\n    pass\nclass KalimosPrimalLord(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "FireElemental",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class FireElemental(CardSuperClass):\n    pass\nclass FlametongueTotem(CardSuperClass):\n    pass\nclass Hex(CardSuperClass):\n    pass\nclass KalimosPrimalLord(CardSuperClass):\n    pass\nclass LightningBolt(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "FlametongueTotem",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class FlametongueTotem(CardSuperClass):\n    pass\nclass Hex(CardSuperClass):\n    pass\nclass KalimosPrimalLord(CardSuperClass):\n    pass\nclass LightningBolt(CardSuperClass):\n    pass\nclass LightningStorm(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "Hex",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class Hex(CardSuperClass):\n    pass\nclass KalimosPrimalLord(CardSuperClass):\n    pass\nclass LightningBolt(CardSuperClass):\n    pass\nclass LightningStorm(CardSuperClass):\n    pass\nclass MenacingNimbus(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "KalimosPrimalLord",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class KalimosPrimalLord(CardSuperClass):\n    pass\nclass LightningBolt(CardSuperClass):\n    pass\nclass LightningStorm(CardSuperClass):\n    pass\nclass MenacingNimbus(CardSuperClass):\n    pass\nclass MuckPools(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "LightningBolt",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class LightningBolt(CardSuperClass):\n    pass\nclass LightningStorm(CardSuperClass):\n    pass\nclass MenacingNimbus(CardSuperClass):\n    pass\nclass MuckPools(CardSuperClass):\n    pass\nclass NoviceZapper(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "LightningStorm",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class LightningStorm(CardSuperClass):\n    pass\nclass MenacingNimbus(CardSuperClass):\n    pass\nclass MuckPools(CardSuperClass):\n    pass\nclass NoviceZapper(CardSuperClass):\n    pass\nclass Overdraft(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "MenacingNimbus",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class MenacingNimbus(CardSuperClass):\n    pass\nclass MuckPools(CardSuperClass):\n    pass\nclass NoviceZapper(CardSuperClass):\n    pass\nclass Overdraft(CardSuperClass):\n    pass\nclass SpiritClaws(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "MuckPools",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class MuckPools(CardSuperClass):\n    pass\nclass NoviceZapper(CardSuperClass):\n    pass\nclass Overdraft(CardSuperClass):\n    pass\nclass SpiritClaws(CardSuperClass):\n    pass\nclass ThingFromBelow(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "NoviceZapper",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class NoviceZapper(CardSuperClass):\n    pass\nclass Overdraft(CardSuperClass):\n    pass\nclass SpiritClaws(CardSuperClass):\n    pass\nclass ThingFromBelow(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "Overdraft",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class Overdraft(CardSuperClass):\n    pass\nclass SpiritClaws(CardSuperClass):\n    pass\nclass ThingFromBelow(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "SpiritClaws",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class SpiritClaws(CardSuperClass):\n    pass\nclass ThingFromBelow(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "ThingFromBelow",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.shaman",
+        "description": "CardLib.sets.core.shaman",
+        "peekOfCode": "class ThingFromBelow(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.shaman",
+        "documentation": {}
+    },
+    {
+        "label": "ArchvillainRafaam",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class ArchvillainRafaam(CardSuperClass):\n    pass\nclass BloodboundImp(CardSuperClass):\n    pass\nclass DarkAlleyPact(CardSuperClass):\n    pass\nclass Defile(CardSuperClass):\n    pass\nclass DemonicStudies(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "BloodboundImp",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class BloodboundImp(CardSuperClass):\n    pass\nclass DarkAlleyPact(CardSuperClass):\n    pass\nclass Defile(CardSuperClass):\n    pass\nclass DemonicStudies(CardSuperClass):\n    pass\nclass Doomguard(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "DarkAlleyPact",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class DarkAlleyPact(CardSuperClass):\n    pass\nclass Defile(CardSuperClass):\n    pass\nclass DemonicStudies(CardSuperClass):\n    pass\nclass Doomguard(CardSuperClass):\n    pass\nclass DrainSoul(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "Defile",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class Defile(CardSuperClass):\n    pass\nclass DemonicStudies(CardSuperClass):\n    pass\nclass Doomguard(CardSuperClass):\n    pass\nclass DrainSoul(CardSuperClass):\n    pass\nclass EnhancedDreadlord(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "DemonicStudies",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class DemonicStudies(CardSuperClass):\n    pass\nclass Doomguard(CardSuperClass):\n    pass\nclass DrainSoul(CardSuperClass):\n    pass\nclass EnhancedDreadlord(CardSuperClass):\n    pass\nclass FlameImp(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "Doomguard",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class Doomguard(CardSuperClass):\n    pass\nclass DrainSoul(CardSuperClass):\n    pass\nclass EnhancedDreadlord(CardSuperClass):\n    pass\nclass FlameImp(CardSuperClass):\n    pass\nclass Hellfire(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "DrainSoul",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class DrainSoul(CardSuperClass):\n    pass\nclass EnhancedDreadlord(CardSuperClass):\n    pass\nclass FlameImp(CardSuperClass):\n    pass\nclass Hellfire(CardSuperClass):\n    pass\nclass LesserAmethystSpellstone(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "EnhancedDreadlord",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class EnhancedDreadlord(CardSuperClass):\n    pass\nclass FlameImp(CardSuperClass):\n    pass\nclass Hellfire(CardSuperClass):\n    pass\nclass LesserAmethystSpellstone(CardSuperClass):\n    pass\nclass LordJaraxxus(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "FlameImp",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class FlameImp(CardSuperClass):\n    pass\nclass Hellfire(CardSuperClass):\n    pass\nclass LesserAmethystSpellstone(CardSuperClass):\n    pass\nclass LordJaraxxus(CardSuperClass):\n    pass\nclass MortalCoil(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "Hellfire",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class Hellfire(CardSuperClass):\n    pass\nclass LesserAmethystSpellstone(CardSuperClass):\n    pass\nclass LordJaraxxus(CardSuperClass):\n    pass\nclass MortalCoil(CardSuperClass):\n    pass\nclass SiphonSoul(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "LesserAmethystSpellstone",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class LesserAmethystSpellstone(CardSuperClass):\n    pass\nclass LordJaraxxus(CardSuperClass):\n    pass\nclass MortalCoil(CardSuperClass):\n    pass\nclass SiphonSoul(CardSuperClass):\n    pass\nclass SpiritBomb(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "LordJaraxxus",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class LordJaraxxus(CardSuperClass):\n    pass\nclass MortalCoil(CardSuperClass):\n    pass\nclass SiphonSoul(CardSuperClass):\n    pass\nclass SpiritBomb(CardSuperClass):\n    pass\nclass TwistingNether(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "MortalCoil",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class MortalCoil(CardSuperClass):\n    pass\nclass SiphonSoul(CardSuperClass):\n    pass\nclass SpiritBomb(CardSuperClass):\n    pass\nclass TwistingNether(CardSuperClass):\n    pass\nclass Voidwalker(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "SiphonSoul",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class SiphonSoul(CardSuperClass):\n    pass\nclass SpiritBomb(CardSuperClass):\n    pass\nclass TwistingNether(CardSuperClass):\n    pass\nclass Voidwalker(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "SpiritBomb",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class SpiritBomb(CardSuperClass):\n    pass\nclass TwistingNether(CardSuperClass):\n    pass\nclass Voidwalker(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "TwistingNether",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class TwistingNether(CardSuperClass):\n    pass\nclass Voidwalker(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "Voidwalker",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warlock",
+        "description": "CardLib.sets.core.warlock",
+        "peekOfCode": "class Voidwalker(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warlock",
+        "documentation": {}
+    },
+    {
+        "label": "Bash",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class Bash(CardSuperClass):\n    pass\nclass Bladestorm(CardSuperClass):\n    pass\nclass Brawl(CardSuperClass):\n    pass\nclass CargoGuard(CardSuperClass):\n    pass\nclass DeathwingMadAspect(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "Bladestorm",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class Bladestorm(CardSuperClass):\n    pass\nclass Brawl(CardSuperClass):\n    pass\nclass CargoGuard(CardSuperClass):\n    pass\nclass DeathwingMadAspect(CardSuperClass):\n    pass\nclass Execute(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "Brawl",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class Brawl(CardSuperClass):\n    pass\nclass CargoGuard(CardSuperClass):\n    pass\nclass DeathwingMadAspect(CardSuperClass):\n    pass\nclass Execute(CardSuperClass):\n    pass\nclass FieryWarAxe(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "CargoGuard",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class CargoGuard(CardSuperClass):\n    pass\nclass DeathwingMadAspect(CardSuperClass):\n    pass\nclass Execute(CardSuperClass):\n    pass\nclass FieryWarAxe(CardSuperClass):\n    pass\nclass FrightenedFlunky(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "DeathwingMadAspect",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class DeathwingMadAspect(CardSuperClass):\n    pass\nclass Execute(CardSuperClass):\n    pass\nclass FieryWarAxe(CardSuperClass):\n    pass\nclass FrightenedFlunky(CardSuperClass):\n    pass\nclass FrothingBerserker(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "Execute",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class Execute(CardSuperClass):\n    pass\nclass FieryWarAxe(CardSuperClass):\n    pass\nclass FrightenedFlunky(CardSuperClass):\n    pass\nclass FrothingBerserker(CardSuperClass):\n    pass\nclass GrommashHellscream(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "FieryWarAxe",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class FieryWarAxe(CardSuperClass):\n    pass\nclass FrightenedFlunky(CardSuperClass):\n    pass\nclass FrothingBerserker(CardSuperClass):\n    pass\nclass GrommashHellscream(CardSuperClass):\n    pass\nclass HeavyPlate(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "FrightenedFlunky",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class FrightenedFlunky(CardSuperClass):\n    pass\nclass FrothingBerserker(CardSuperClass):\n    pass\nclass GrommashHellscream(CardSuperClass):\n    pass\nclass HeavyPlate(CardSuperClass):\n    pass\nclass SanguineDepths(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "FrothingBerserker",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class FrothingBerserker(CardSuperClass):\n    pass\nclass GrommashHellscream(CardSuperClass):\n    pass\nclass HeavyPlate(CardSuperClass):\n    pass\nclass SanguineDepths(CardSuperClass):\n    pass\nclass ShieldBlock(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "GrommashHellscream",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class GrommashHellscream(CardSuperClass):\n    pass\nclass HeavyPlate(CardSuperClass):\n    pass\nclass SanguineDepths(CardSuperClass):\n    pass\nclass ShieldBlock(CardSuperClass):\n    pass\nclass ShieldSlam(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "HeavyPlate",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class HeavyPlate(CardSuperClass):\n    pass\nclass SanguineDepths(CardSuperClass):\n    pass\nclass ShieldBlock(CardSuperClass):\n    pass\nclass ShieldSlam(CardSuperClass):\n    pass\nclass Slam(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "SanguineDepths",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class SanguineDepths(CardSuperClass):\n    pass\nclass ShieldBlock(CardSuperClass):\n    pass\nclass ShieldSlam(CardSuperClass):\n    pass\nclass Slam(CardSuperClass):\n    pass\nclass TownCrier(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "ShieldBlock",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class ShieldBlock(CardSuperClass):\n    pass\nclass ShieldSlam(CardSuperClass):\n    pass\nclass Slam(CardSuperClass):\n    pass\nclass TownCrier(CardSuperClass):\n    pass\nclass Whirlwind(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "ShieldSlam",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class ShieldSlam(CardSuperClass):\n    pass\nclass Slam(CardSuperClass):\n    pass\nclass TownCrier(CardSuperClass):\n    pass\nclass Whirlwind(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "Slam",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class Slam(CardSuperClass):\n    pass\nclass TownCrier(CardSuperClass):\n    pass\nclass Whirlwind(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "TownCrier",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class TownCrier(CardSuperClass):\n    pass\nclass Whirlwind(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "Whirlwind",
+        "kind": 6,
+        "importPath": "CardLib.sets.core.warrior",
+        "description": "CardLib.sets.core.warrior",
+        "peekOfCode": "class Whirlwind(CardSuperClass):\n    pass",
+        "detail": "CardLib.sets.core.warrior",
+        "documentation": {}
+    },
+    {
+        "label": "Card",
+        "kind": 6,
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "peekOfCode": "class Card(ABC):\n    def __init__(self):\n        name = type(self).__name__\n        card_info = get_card_info(name)\n        self.name = card_info[\"name\"]  # Name of the card\n        self.manaCost = card_info[\"manaCost\"]\n        self.base_health = card_info[\"health\"]\n        self.base_attack = card_info[\"attack\"]\n        self.health = self.base_health\n        self.attack = self.base_attack",
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "get_card_info",
+        "kind": 2,
+        "importPath": "CardLib.CardBase",
+        "description": "CardLib.CardBase",
+        "peekOfCode": "def get_card_info(card_name):\n    with open(\"card/sets/core/core_dict.json\", \"r\") as file:\n        minion_info = json.load(file)\n        return minion_info.get(card_name)\nclass Card(ABC):\n    def __init__(self):\n        name = type(self).__name__\n        card_info = get_card_info(name)\n        self.name = card_info[\"name\"]  # Name of the card\n        self.manaCost = card_info[\"manaCost\"]",
+        "detail": "CardLib.CardBase",
+        "documentation": {}
+    },
+    {
+        "label": "effect",
+        "kind": 6,
+        "importPath": "Main.Engine.Effects",
+        "description": "Main.Engine.Effects",
+        "peekOfCode": "class effect:\n    def __init__(self, target: Target, amount: int):\n        self.target = target\n        self.amount = amount\n    def exectute(self, game_state: GameState):\n        pass\nclass damage(effect):\n    def execute(self, game_state: GameState):\n        target = self.target.get_target(game_state)\n        target.health -= self.amount",
+        "detail": "Main.Engine.Effects",
+        "documentation": {}
+    },
+    {
+        "label": "damage",
+        "kind": 6,
+        "importPath": "Main.Engine.Effects",
+        "description": "Main.Engine.Effects",
+        "peekOfCode": "class damage(effect):\n    def execute(self, game_state: GameState):\n        target = self.target.get_target(game_state)\n        target.health -= self.amount\n        pass",
+        "detail": "Main.Engine.Effects",
+        "documentation": {}
+    },
+    {
+        "label": "EManage",
+        "kind": 6,
+        "importPath": "Main.Engine.EventManager",
+        "description": "Main.Engine.EventManager",
+        "peekOfCode": "class EManage:\n    def __init__(self):\n        self._subscribers = {}\n    def register_event(self, event_type, callback):\n        if event_type not in self._subscribers:\n            self._subscribers[event_type] = []\n        if callback not in self._subscribers[event_type]:\n            self._subscribers[event_type].append(callback)\n    def unregister_event(self, event_type, callback):\n        if (",
+        "detail": "Main.Engine.EventManager",
+        "documentation": {}
+    },
+    {
+        "label": "Target",
+        "kind": 6,
+        "importPath": "Main.Engine.Target",
+        "description": "Main.Engine.Target",
+        "peekOfCode": "class Target:\n    def get_target(game_state: GameState):\n        pass\nclass freindly_hero(Target):\n    def get_target(game_state: GameState):\n        return game_state.player_1",
+        "detail": "Main.Engine.Target",
+        "documentation": {}
+    },
+    {
+        "label": "freindly_hero",
+        "kind": 6,
+        "importPath": "Main.Engine.Target",
+        "description": "Main.Engine.Target",
+        "peekOfCode": "class freindly_hero(Target):\n    def get_target(game_state: GameState):\n        return game_state.player_1",
+        "detail": "Main.Engine.Target",
+        "documentation": {}
+    },
+    {
+        "label": "Handler",
+        "kind": 6,
+        "importPath": "Main.Engine.ValidChain",
+        "description": "Main.Engine.ValidChain",
+        "peekOfCode": "class Handler(ABC):\n    def __init__(self, successor=None):\n        self._successor = successor\n    def handle_request(self, request):\n        pass\nclass ValidationEngine(ABC):\n    def __init__(self):\n        self.handlers = []\n    def validate(self, request):\n        for handler in self.handlers:",
+        "detail": "Main.Engine.ValidChain",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationEngine",
+        "kind": 6,
+        "importPath": "Main.Engine.ValidChain",
+        "description": "Main.Engine.ValidChain",
+        "peekOfCode": "class ValidationEngine(ABC):\n    def __init__(self):\n        self.handlers = []\n    def validate(self, request):\n        for handler in self.handlers:\n            handler.handle_request(request)\nclass ConcreteHandler1(Handler):\n    def handle_request(self, request):\n        if request == \"request1\":\n            print(\"ConcreteHandler1 handles the request.\")",
+        "detail": "Main.Engine.ValidChain",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteHandler1",
+        "kind": 6,
+        "importPath": "Main.Engine.ValidChain",
+        "description": "Main.Engine.ValidChain",
+        "peekOfCode": "class ConcreteHandler1(Handler):\n    def handle_request(self, request):\n        if request == \"request1\":\n            print(\"ConcreteHandler1 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler2(Handler):\n    def handle_request(self, request):\n        if request == \"request2\":\n            print(\"ConcreteHandler2 handles the request.\")",
+        "detail": "Main.Engine.ValidChain",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteHandler2",
+        "kind": 6,
+        "importPath": "Main.Engine.ValidChain",
+        "description": "Main.Engine.ValidChain",
+        "peekOfCode": "class ConcreteHandler2(Handler):\n    def handle_request(self, request):\n        if request == \"request2\":\n            print(\"ConcreteHandler2 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler3(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")",
+        "detail": "Main.Engine.ValidChain",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteHandler3",
+        "kind": 6,
+        "importPath": "Main.Engine.ValidChain",
+        "description": "Main.Engine.ValidChain",
+        "peekOfCode": "class ConcreteHandler3(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler4(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")",
+        "detail": "Main.Engine.ValidChain",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteHandler4",
+        "kind": 6,
+        "importPath": "Main.Engine.ValidChain",
+        "description": "Main.Engine.ValidChain",
+        "peekOfCode": "class ConcreteHandler4(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass handValidator(ValidationEngine):\n    def __init__(self):\n        self.handlers = [\n            ConcreteHandler1(),",
+        "detail": "Main.Engine.ValidChain",
+        "documentation": {}
+    },
+    {
+        "label": "handValidator",
+        "kind": 6,
+        "importPath": "Main.Engine.ValidChain",
+        "description": "Main.Engine.ValidChain",
+        "peekOfCode": "class handValidator(ValidationEngine):\n    def __init__(self):\n        self.handlers = [\n            ConcreteHandler1(),\n            ConcreteHandler2(),\n            ConcreteHandler3(),\n            ConcreteHandler4(),\n        ]\n# Usage example\nengine = handValidator()",
+        "detail": "Main.Engine.ValidChain",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "Main.Engine.ValidChain",
+        "description": "Main.Engine.ValidChain",
+        "peekOfCode": "engine = handValidator()\nengine.validate(\"request1\")\nengine.validate(\"request2\")\nengine.validate(\"request3\")",
+        "detail": "Main.Engine.ValidChain",
+        "documentation": {}
+    },
+    {
+        "label": "GameState",
+        "kind": 6,
+        "importPath": "Main.Entity.GameState",
+        "description": "Main.Entity.GameState",
+        "peekOfCode": "class GameState:\n    player_1: Player\n    player_2: Player\n    active_player: None",
+        "detail": "Main.Entity.GameState",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "Main.Entity.Player",
+        "description": "Main.Entity.Player",
+        "peekOfCode": "class Player:\n    board: list[Card] = None\n    deck: list[Card] = None\n    hand: list[Card] = None\n    max_health: int = 30\n    health: int = 30",
+        "detail": "Main.Entity.Player",
+        "documentation": {}
+    },
+    {
+        "label": "test_effects",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def test_effects():\n    effects = damage()\n    assert effects is not None\n    assert effects.effects == []\n    assert effects.get_effects() == []",
+        "detail": "test",
+        "documentation": {}
+    }
+]

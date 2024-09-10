@@ -1,137 +1,137 @@
-from CardLib.CardBase import CardSuperClass
+from CardLib.CardBase import Card
 
 
-class AcolyteOfDeath(CardSuperClass):
+class AcolyteOfDeath(Card):
     pass
 
 
-class AntimagicShell(CardSuperClass):
+class AntimagicShell(Card):
     pass
 
 
-class ArmyOfTheDead(CardSuperClass):
+class ArmyOfTheDead(Card):
     pass
 
 
-class Asphyxiate(CardSuperClass):
+class Asphyxiate(Card):
     pass
 
 
-class BattlefieldNecromancer(CardSuperClass):
+class BattlefieldNecromancer(Card):
     pass
 
 
-class BloodTap(CardSuperClass):
+class BloodTap(Card):
     pass
 
 
-class BodyBagger(CardSuperClass):
+class BodyBagger(Card):
     pass
 
 
-class ChillfallenBaron(CardSuperClass):
+class ChillfallenBaron(Card):
     pass
 
 
-class CorpseBride(CardSuperClass):
+class CorpseBride(Card):
     pass
 
 
-class CorpseExplosion(CardSuperClass):
+class CorpseExplosion(Card):
     pass
 
 
-class DeathStrike(CardSuperClass):
+class DeathStrike(Card):
     pass
 
 
-class DeathbringerSaurfang(CardSuperClass):
+class DeathbringerSaurfang(Card):
     pass
 
 
-class FrostStrike(CardSuperClass):
+class FrostStrike(Card):
     pass
 
 
-class Frostmourne(CardSuperClass):
+class Frostmourne(Card):
     pass
 
 
-class FrostwyrmsFury(CardSuperClass):
+class FrostwyrmsFury(Card):
     pass
 
 
-class GnomeMuncher(CardSuperClass):
+class GnomeMuncher(Card):
     pass
 
 
-class GraveStrength(CardSuperClass):
+class GraveStrength(Card):
     pass
 
 
-class HarbingerOfWinter(CardSuperClass):
+class HarbingerOfWinter(Card):
     pass
 
 
-class Hematurge(CardSuperClass):
+class Hematurge(Card):
     pass
 
 
-class HornOfWinter(CardSuperClass):
+class HornOfWinter(Card):
     pass
 
 
-class MarrowManipulator(CardSuperClass):
+class MarrowManipulator(Card):
     pass
 
 
-class MightOfMenethil(CardSuperClass):
+class MightOfMenethil(Card):
     pass
 
 
-class NecroticMortician(CardSuperClass):
+class NecroticMortician(Card):
     pass
 
 
-class NerubianSwarmguard(CardSuperClass):
+class NerubianSwarmguard(Card):
     pass
 
 
-class NoxiousCadaver(CardSuperClass):
+class NoxiousCadaver(Card):
     pass
 
 
-class PlaguedGrain(CardSuperClass):
+class PlaguedGrain(Card):
     pass
 
 
-class RemorselessWinter(CardSuperClass):
+class RemorselessWinter(Card):
     pass
 
 
-class SkeletalSidekick(CardSuperClass):
+class SkeletalSidekick(Card):
     pass
 
 
-class Soulbreaker(CardSuperClass):
+class Soulbreaker(Card):
     pass
 
 
-class Soulstealer(CardSuperClass):
+class Soulstealer(Card):
     pass
 
 
-class StitchedGiant(CardSuperClass):
+class StitchedGiant(Card):
     pass
 
 
-class Thassarian(CardSuperClass):
+class Thassarian(Card):
     pass
 
 
-class TheScourge(CardSuperClass):
+class TheScourge(Card):
     pass
 
 
-class VampiricBlood(CardSuperClass):
+class VampiricBlood(Card):
     pass
