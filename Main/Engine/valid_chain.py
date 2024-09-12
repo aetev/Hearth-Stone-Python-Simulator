@@ -6,18 +6,38 @@ from abc import ABC  # Abstract Base Class
 
 
 class Handler(ABC):
-    def __init__(self, successor=None):
+    """
+    Abstract class for handling requests.
+    """
+
+    def __init__(self, successor=None) -> None:
+        """
+        Constructor for the Handler class.
+        args:
+        """
         self._successor = successor
 
-    def handle_request(self, request):
-        pass
+    def handle_request(self, request) -> None:
+        """
+        Abstract method for handling requests.
+        """
 
 
 class ValidationEngine(ABC):
-    def __init__(self):
+    """
+    Abstract class for the validation engine.
+    """
+
+    def __init__(self) -> None:
+        """
+        Constructor for the ValidationEngine class.
+        """
         self.handlers = []
 
-    def validate(self, request):
+    def validate(self, request) -> None:
+        """
+        Method for validating requests.
+        """
         for handler in self.handlers:
             handler.handle_request(request)
 

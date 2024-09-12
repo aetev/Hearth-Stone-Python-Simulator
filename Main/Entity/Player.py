@@ -1,3 +1,7 @@
+"""
+Player class
+"""
+
 from dataclasses import dataclass  # import the dataclass decorator
 from CardLib.CardBase import Card  # import the Card class
 

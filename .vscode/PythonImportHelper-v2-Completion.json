@@ -2822,21 +2822,21 @@
         "documentation": {}
     },
     {
-        "label": "effect",
+        "label": "Effect",
         "kind": 6,
-        "importPath": "Main.Engine.Effects",
-        "description": "Main.Engine.Effects",
-        "peekOfCode": "class effect:\n    def __init__(self, target: Target, amount: int):\n        self.target = target\n        self.amount = amount\n    def exectute(self, game_state: GameState):\n        pass\nclass damage(effect):\n    def execute(self, game_state: GameState):\n        target = self.target.get_target(game_state)\n        target.health -= self.amount",
-        "detail": "Main.Engine.Effects",
+        "importPath": "Main.Engine.effects",
+        "description": "Main.Engine.effects",
+        "peekOfCode": "class Effect:\n    \"\"\"\n    This class is used to determine the effect of a card.\n    \"\"\"\n    def __init__(self, target: Target, amount: int) -> None:\n        \"\"\"\n        This method is used to initialize the effect of a card\n        \"\"\"\n        self.target = target\n        self.amount = amount",
+        "detail": "Main.Engine.effects",
         "documentation": {}
     },
     {
-        "label": "damage",
+        "label": "Damage",
         "kind": 6,
-        "importPath": "Main.Engine.Effects",
-        "description": "Main.Engine.Effects",
-        "peekOfCode": "class damage(effect):\n    def execute(self, game_state: GameState):\n        target = self.target.get_target(game_state)\n        target.health -= self.amount\n        pass",
-        "detail": "Main.Engine.Effects",
+        "importPath": "Main.Engine.effects",
+        "description": "Main.Engine.effects",
+        "peekOfCode": "class Damage(Effect):\n    \"\"\"\n    This class is used to determine the damage effect of a card.\n    \"\"\"\n    def execute(self, game_state: GameState) -> None:\n        \"\"\"\n        This method is used to execute the damage effect of a card.\n        \"\"\"\n        target = self.target.get_target(game_state)\n        target.health -= self.amount",
+        "detail": "Main.Engine.effects",
         "documentation": {}
     },
     {
@@ -2871,7 +2871,7 @@
         "kind": 6,
         "importPath": "Main.Engine.valid_chain",
         "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class Handler(ABC):\n    def __init__(self, successor=None):\n        self._successor = successor\n    def handle_request(self, request):\n        pass\nclass ValidationEngine(ABC):\n    def __init__(self):\n        self.handlers = []\n    def validate(self, request):\n        for handler in self.handlers:",
+        "peekOfCode": "class Handler(ABC):\n    \"\"\"\n    Abstract class for handling requests.\n    \"\"\"\n    def __init__(self, successor=None) -> None:\n        \"\"\"\n        Constructor for the Handler class.\n        args:\n        \"\"\"\n        self._successor = successor",
         "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
@@ -2880,7 +2880,7 @@
         "kind": 6,
         "importPath": "Main.Engine.valid_chain",
         "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class ValidationEngine(ABC):\n    def __init__(self):\n        self.handlers = []\n    def validate(self, request):\n        for handler in self.handlers:\n            handler.handle_request(request)\nclass ConcreteHandler1(Handler):\n    def handle_request(self, request):\n        if request == \"request1\":\n            print(\"ConcreteHandler1 handles the request.\")",
+        "peekOfCode": "class ValidationEngine(ABC):\n    \"\"\"\n    Abstract class for the validation engine.\n    \"\"\"\n    def __init__(self) -> None:\n        \"\"\"\n        Constructor for the ValidationEngine class.\n        \"\"\"\n        self.handlers = []\n    def validate(self, request) -> None:",
         "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
