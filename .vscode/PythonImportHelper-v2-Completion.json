@@ -130,10 +130,10 @@
     },
     {
         "label": "Target",
-        "importPath": "Main.Engine.Target",
-        "description": "Main.Engine.Target",
+        "importPath": "Main.Engine.target_func",
+        "description": "Main.Engine.target_func",
         "isExtraImport": true,
-        "detail": "Main.Engine.Target",
+        "detail": "Main.Engine.target_func",
         "documentation": {}
     },
     {
