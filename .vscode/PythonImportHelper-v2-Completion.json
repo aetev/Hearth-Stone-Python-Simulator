@@ -185,14 +185,6 @@
         "documentation": {}
     },
     {
-        "label": "damage",
-        "importPath": "Main.Engine.Effects",
-        "description": "Main.Engine.Effects",
-        "isExtraImport": true,
-        "detail": "Main.Engine.Effects",
-        "documentation": {}
-    },
-    {
         "label": "AcolyteOfDeath",
         "kind": 6,
         "importPath": "CardLib.sets.core.death_knight",
@@ -2962,15 +2954,6 @@
         "description": "Main.Entity.Player",
         "peekOfCode": "class Player:\n    board: list[Card] = None\n    deck: list[Card] = None\n    hand: list[Card] = None\n    max_health: int = 30\n    health: int = 30",
         "detail": "Main.Entity.Player",
-        "documentation": {}
-    },
-    {
-        "label": "test_effects",
-        "kind": 2,
-        "importPath": "test",
-        "description": "test",
-        "peekOfCode": "def test_effects():\n    effects = damage()\n    assert effects is not None\n    assert effects.effects == []\n    assert effects.get_effects() == []",
-        "detail": "test",
         "documentation": {}
     }
 ]
