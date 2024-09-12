@@ -120,14 +120,6 @@
         "documentation": {}
     },
     {
-        "label": "abstractmethod",
-        "importPath": "abc",
-        "description": "abc",
-        "isExtraImport": true,
-        "detail": "abc",
-        "documentation": {}
-    },
-    {
         "label": "json",
         "kind": 6,
         "isExtraImport": true,
@@ -153,11 +145,11 @@
         "documentation": {}
     },
     {
-        "label": "GameState",
-        "importPath": "Main.Entity.game_state",
-        "description": "Main.Entity.game_state",
+        "label": "needed",
+        "importPath": "Main.Entity.game_state import GameState  # This is the only",
+        "description": "Main.Entity.game_state import GameState  # This is the only",
         "isExtraImport": true,
-        "detail": "Main.Entity.game_state",
+        "detail": "Main.Entity.game_state import GameState  # This is the only",
         "documentation": {}
     },
     {
@@ -2850,100 +2842,100 @@
     {
         "label": "EManage",
         "kind": 6,
-        "importPath": "Main.Engine.EventManager",
-        "description": "Main.Engine.EventManager",
-        "peekOfCode": "class EManage:\n    def __init__(self):\n        self._subscribers = {}\n    def register_event(self, event_type, callback):\n        if event_type not in self._subscribers:\n            self._subscribers[event_type] = []\n        if callback not in self._subscribers[event_type]:\n            self._subscribers[event_type].append(callback)\n    def unregister_event(self, event_type, callback):\n        if (",
-        "detail": "Main.Engine.EventManager",
+        "importPath": "Main.Engine.event_manager",
+        "description": "Main.Engine.event_manager",
+        "peekOfCode": "class EManage:\n    \"\"\"\n    Observer pattern implementation for event management.\n    \"\"\"\n    def __init__(self):\n        self._subscribers = {}\n    def register_event(self, event_type, callback):\n        \"\"\"\n        Registers a callback function to be invoked when a specific event type occurs.\n        Args:",
+        "detail": "Main.Engine.event_manager",
         "documentation": {}
     },
     {
         "label": "Target",
         "kind": 6,
-        "importPath": "Main.Engine.Target",
-        "description": "Main.Engine.Target",
-        "peekOfCode": "class Target:\n    def get_target(game_state: GameState):\n        pass\nclass freindly_hero(Target):\n    def get_target(game_state: GameState):\n        return game_state.player_1",
-        "detail": "Main.Engine.Target",
+        "importPath": "Main.Engine.target_func",
+        "description": "Main.Engine.target_func",
+        "peekOfCode": "class Target:\n    \"\"\"\n    This class is used to determine the target of an effect.\n    \"\"\"\n    def get_target(self, game_state: GameState) -> object:\n        \"\"\"\n        This method is used to get the target of an effect.\n        \"\"\"\nclass FreindlyHero(Target):\n    \"\"\"",
+        "detail": "Main.Engine.target_func",
         "documentation": {}
     },
     {
-        "label": "freindly_hero",
+        "label": "FreindlyHero",
         "kind": 6,
-        "importPath": "Main.Engine.Target",
-        "description": "Main.Engine.Target",
-        "peekOfCode": "class freindly_hero(Target):\n    def get_target(game_state: GameState):\n        return game_state.player_1",
-        "detail": "Main.Engine.Target",
+        "importPath": "Main.Engine.target_func",
+        "description": "Main.Engine.target_func",
+        "peekOfCode": "class FreindlyHero(Target):\n    \"\"\"\n    This class targets the hero that played it.\n    \"\"\"\n    def get_target(self, game_state: GameState) -> object:\n        return game_state.player_1",
+        "detail": "Main.Engine.target_func",
         "documentation": {}
     },
     {
         "label": "Handler",
         "kind": 6,
-        "importPath": "Main.Engine.ValidChain",
-        "description": "Main.Engine.ValidChain",
+        "importPath": "Main.Engine.valid_chain",
+        "description": "Main.Engine.valid_chain",
         "peekOfCode": "class Handler(ABC):\n    def __init__(self, successor=None):\n        self._successor = successor\n    def handle_request(self, request):\n        pass\nclass ValidationEngine(ABC):\n    def __init__(self):\n        self.handlers = []\n    def validate(self, request):\n        for handler in self.handlers:",
-        "detail": "Main.Engine.ValidChain",
+        "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
     {
         "label": "ValidationEngine",
         "kind": 6,
-        "importPath": "Main.Engine.ValidChain",
-        "description": "Main.Engine.ValidChain",
+        "importPath": "Main.Engine.valid_chain",
+        "description": "Main.Engine.valid_chain",
         "peekOfCode": "class ValidationEngine(ABC):\n    def __init__(self):\n        self.handlers = []\n    def validate(self, request):\n        for handler in self.handlers:\n            handler.handle_request(request)\nclass ConcreteHandler1(Handler):\n    def handle_request(self, request):\n        if request == \"request1\":\n            print(\"ConcreteHandler1 handles the request.\")",
-        "detail": "Main.Engine.ValidChain",
+        "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
     {
         "label": "ConcreteHandler1",
         "kind": 6,
-        "importPath": "Main.Engine.ValidChain",
-        "description": "Main.Engine.ValidChain",
+        "importPath": "Main.Engine.valid_chain",
+        "description": "Main.Engine.valid_chain",
         "peekOfCode": "class ConcreteHandler1(Handler):\n    def handle_request(self, request):\n        if request == \"request1\":\n            print(\"ConcreteHandler1 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler2(Handler):\n    def handle_request(self, request):\n        if request == \"request2\":\n            print(\"ConcreteHandler2 handles the request.\")",
-        "detail": "Main.Engine.ValidChain",
+        "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
     {
         "label": "ConcreteHandler2",
         "kind": 6,
-        "importPath": "Main.Engine.ValidChain",
-        "description": "Main.Engine.ValidChain",
+        "importPath": "Main.Engine.valid_chain",
+        "description": "Main.Engine.valid_chain",
         "peekOfCode": "class ConcreteHandler2(Handler):\n    def handle_request(self, request):\n        if request == \"request2\":\n            print(\"ConcreteHandler2 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler3(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")",
-        "detail": "Main.Engine.ValidChain",
+        "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
     {
         "label": "ConcreteHandler3",
         "kind": 6,
-        "importPath": "Main.Engine.ValidChain",
-        "description": "Main.Engine.ValidChain",
+        "importPath": "Main.Engine.valid_chain",
+        "description": "Main.Engine.valid_chain",
         "peekOfCode": "class ConcreteHandler3(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler4(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")",
-        "detail": "Main.Engine.ValidChain",
+        "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
     {
         "label": "ConcreteHandler4",
         "kind": 6,
-        "importPath": "Main.Engine.ValidChain",
-        "description": "Main.Engine.ValidChain",
+        "importPath": "Main.Engine.valid_chain",
+        "description": "Main.Engine.valid_chain",
         "peekOfCode": "class ConcreteHandler4(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass handValidator(ValidationEngine):\n    def __init__(self):\n        self.handlers = [\n            ConcreteHandler1(),",
-        "detail": "Main.Engine.ValidChain",
+        "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
     {
         "label": "handValidator",
         "kind": 6,
-        "importPath": "Main.Engine.ValidChain",
-        "description": "Main.Engine.ValidChain",
+        "importPath": "Main.Engine.valid_chain",
+        "description": "Main.Engine.valid_chain",
         "peekOfCode": "class handValidator(ValidationEngine):\n    def __init__(self):\n        self.handlers = [\n            ConcreteHandler1(),\n            ConcreteHandler2(),\n            ConcreteHandler3(),\n            ConcreteHandler4(),\n        ]\n# Usage example\nengine = handValidator()",
-        "detail": "Main.Engine.ValidChain",
+        "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
     {
         "label": "engine",
         "kind": 5,
-        "importPath": "Main.Engine.ValidChain",
-        "description": "Main.Engine.ValidChain",
+        "importPath": "Main.Engine.valid_chain",
+        "description": "Main.Engine.valid_chain",
         "peekOfCode": "engine = handValidator()\nengine.validate(\"request1\")\nengine.validate(\"request2\")\nengine.validate(\"request3\")",
-        "detail": "Main.Engine.ValidChain",
+        "detail": "Main.Engine.valid_chain",
         "documentation": {}
     },
     {

@@ -1,4 +1,8 @@
-from abc import ABC, abstractmethod
+"""
+Chain of Responsibility Design Pattern
+"""
+
+from abc import ABC  # Abstract Base Class
 
 
 class Handler(ABC):

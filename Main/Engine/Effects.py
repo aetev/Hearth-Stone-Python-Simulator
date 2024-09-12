@@ -1,4 +1,4 @@
-from Main.Engine.Target import Target
+from Main.Engine.target_func import Target
 from Main.Entity.game_state import GameState
 
 
