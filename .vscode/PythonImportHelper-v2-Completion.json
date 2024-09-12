@@ -120,12 +120,36 @@
         "documentation": {}
     },
     {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
         "label": "json",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "json",
         "description": "json",
         "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationEngine",
+        "importPath": "Main.Engine.Validation.valid_base",
+        "description": "Main.Engine.Validation.valid_base",
+        "isExtraImport": true,
+        "detail": "Main.Engine.Validation.valid_base",
+        "documentation": {}
+    },
+    {
+        "label": "Handler",
+        "importPath": "Main.Engine.Validation.valid_base",
+        "description": "Main.Engine.Validation.valid_base",
+        "isExtraImport": true,
+        "detail": "Main.Engine.Validation.valid_base",
         "documentation": {}
     },
     {
@@ -170,10 +194,10 @@
     },
     {
         "label": "the Player class",
-        "importPath": "Main.Entity.player import PlayerClass  #",
-        "description": "Main.Entity.player import PlayerClass  #",
+        "importPath": "Main.Entity.player_base import Player  #",
+        "description": "Main.Entity.player_base import Player  #",
         "isExtraImport": true,
-        "detail": "Main.Entity.player import PlayerClass  #",
+        "detail": "Main.Entity.player_base import Player  #",
         "documentation": {}
     },
     {
@@ -2822,6 +2846,42 @@
         "documentation": {}
     },
     {
+        "label": "Handler",
+        "kind": 6,
+        "importPath": "Main.Engine.Validation.valid_base",
+        "description": "Main.Engine.Validation.valid_base",
+        "peekOfCode": "class Handler(ABC):\n    \"\"\"\n    Abstract class for handling requests.\n    \"\"\"\n    @abstractmethod\n    def __init__(self, successor=None) -> None:\n        \"\"\"\n        Constructor for the Handler class.\n        args:\n        \"\"\"",
+        "detail": "Main.Engine.Validation.valid_base",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationEngine",
+        "kind": 6,
+        "importPath": "Main.Engine.Validation.valid_base",
+        "description": "Main.Engine.Validation.valid_base",
+        "peekOfCode": "class ValidationEngine(ABC):\n    \"\"\"\n    Abstract class for the validation engine.\n    \"\"\"\n    @abstractmethod\n    def __init__(self) -> None:\n        \"\"\"\n        Constructor for the ValidationEngine class.\n        \"\"\"\n        self.handlers = []",
+        "detail": "Main.Engine.Validation.valid_base",
+        "documentation": {}
+    },
+    {
+        "label": "HandValidator",
+        "kind": 6,
+        "importPath": "Main.Engine.Validation.valid_func",
+        "description": "Main.Engine.Validation.valid_func",
+        "peekOfCode": "class HandValidator(ValidationEngine):\n    \"\"\"\n    This class is used to validate the hand of a player.\n    \"\"\"\n    def __init__(self) -> None:\n        \"\"\"\n        Constructor for the handValidator class.\n        \"\"\"\n        self.handlers = [\n            ConcreteHandler1,",
+        "detail": "Main.Engine.Validation.valid_func",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteHandler1",
+        "kind": 6,
+        "importPath": "Main.Engine.Validation.valid_func",
+        "description": "Main.Engine.Validation.valid_func",
+        "peekOfCode": "class ConcreteHandler1(Handler):\n    \"\"\"\n    This class is used to handle requests for the hand validator.\n    \"\"\"\n    def handle_request(self, request) -> None:\n        if request == \"request1\":\n            print(\"ConcreteHandler1 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)",
+        "detail": "Main.Engine.Validation.valid_func",
+        "documentation": {}
+    },
+    {
         "label": "Effect",
         "kind": 6,
         "importPath": "Main.Engine.effects",
@@ -2867,111 +2927,39 @@
         "documentation": {}
     },
     {
-        "label": "Handler",
-        "kind": 6,
-        "importPath": "Main.Engine.valid_chain",
-        "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class Handler(ABC):\n    \"\"\"\n    Abstract class for handling requests.\n    \"\"\"\n    def __init__(self, successor=None) -> None:\n        \"\"\"\n        Constructor for the Handler class.\n        args:\n        \"\"\"\n        self._successor = successor",
-        "detail": "Main.Engine.valid_chain",
-        "documentation": {}
-    },
-    {
-        "label": "ValidationEngine",
-        "kind": 6,
-        "importPath": "Main.Engine.valid_chain",
-        "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class ValidationEngine(ABC):\n    \"\"\"\n    Abstract class for the validation engine.\n    \"\"\"\n    def __init__(self) -> None:\n        \"\"\"\n        Constructor for the ValidationEngine class.\n        \"\"\"\n        self.handlers = []\n    def validate(self, request) -> None:",
-        "detail": "Main.Engine.valid_chain",
-        "documentation": {}
-    },
-    {
-        "label": "ConcreteHandler1",
-        "kind": 6,
-        "importPath": "Main.Engine.valid_chain",
-        "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class ConcreteHandler1(Handler):\n    def handle_request(self, request):\n        if request == \"request1\":\n            print(\"ConcreteHandler1 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler2(Handler):\n    def handle_request(self, request):\n        if request == \"request2\":\n            print(\"ConcreteHandler2 handles the request.\")",
-        "detail": "Main.Engine.valid_chain",
-        "documentation": {}
-    },
-    {
-        "label": "ConcreteHandler2",
-        "kind": 6,
-        "importPath": "Main.Engine.valid_chain",
-        "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class ConcreteHandler2(Handler):\n    def handle_request(self, request):\n        if request == \"request2\":\n            print(\"ConcreteHandler2 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler3(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")",
-        "detail": "Main.Engine.valid_chain",
-        "documentation": {}
-    },
-    {
-        "label": "ConcreteHandler3",
-        "kind": 6,
-        "importPath": "Main.Engine.valid_chain",
-        "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class ConcreteHandler3(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass ConcreteHandler4(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")",
-        "detail": "Main.Engine.valid_chain",
-        "documentation": {}
-    },
-    {
-        "label": "ConcreteHandler4",
-        "kind": 6,
-        "importPath": "Main.Engine.valid_chain",
-        "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class ConcreteHandler4(Handler):\n    def handle_request(self, request):\n        if request == \"request3\":\n            print(\"ConcreteHandler3 handles the request.\")\n        elif self._successor is not None:\n            self._successor.handle_request(request)\nclass handValidator(ValidationEngine):\n    def __init__(self):\n        self.handlers = [\n            ConcreteHandler1(),",
-        "detail": "Main.Engine.valid_chain",
-        "documentation": {}
-    },
-    {
-        "label": "handValidator",
-        "kind": 6,
-        "importPath": "Main.Engine.valid_chain",
-        "description": "Main.Engine.valid_chain",
-        "peekOfCode": "class handValidator(ValidationEngine):\n    def __init__(self):\n        self.handlers = [\n            ConcreteHandler1(),\n            ConcreteHandler2(),\n            ConcreteHandler3(),\n            ConcreteHandler4(),\n        ]\n# Usage example\nengine = handValidator()",
-        "detail": "Main.Engine.valid_chain",
-        "documentation": {}
-    },
-    {
-        "label": "engine",
-        "kind": 5,
-        "importPath": "Main.Engine.valid_chain",
-        "description": "Main.Engine.valid_chain",
-        "peekOfCode": "engine = handValidator()\nengine.validate(\"request1\")\nengine.validate(\"request2\")\nengine.validate(\"request3\")",
-        "detail": "Main.Engine.valid_chain",
-        "documentation": {}
-    },
-    {
         "label": "GameState",
         "kind": 6,
         "importPath": "Main.Entity.game_state",
         "description": "Main.Entity.game_state",
-        "peekOfCode": "class GameState:\n    \"\"\"\n    GameState class\n    \"\"\"\n    player_1: PlayerClass\n    player_2: PlayerClass\n    active_player: None",
+        "peekOfCode": "class GameState:\n    \"\"\"\n    GameState class\n    \"\"\"\n    player_1: Player\n    player_2: Player\n    active_player: None",
         "detail": "Main.Entity.game_state",
         "documentation": {}
     },
     {
-        "label": "PlayerClass",
+        "label": "Player",
         "kind": 6,
-        "importPath": "Main.Entity.player",
-        "description": "Main.Entity.player",
-        "peekOfCode": "class PlayerClass:\n    \"\"\"\n    Player class\n    \"\"\"\n    board: list[Card] = None\n    deck: list[Card] = None\n    hand: list[Card] = None\n    max_health: int = 30\n    health: int = 30",
-        "detail": "Main.Entity.player",
+        "importPath": "Main.Entity.player_base",
+        "description": "Main.Entity.player_base",
+        "peekOfCode": "class Player:\n    \"\"\"\n    Player class\n    \"\"\"\n    board: list[Card] = None\n    deck: list[Card] = None\n    hand: list[Card] = None\n    max_health: int = 30\n    health: int = 30",
+        "detail": "Main.Entity.player_base",
         "documentation": {}
     },
     {
         "label": "my_function",
         "kind": 2,
-        "importPath": "test.test_file",
-        "description": "test.test_file",
+        "importPath": "Test.test_file",
+        "description": "Test.test_file",
         "peekOfCode": "def my_function(x: int) -> int:\n    \"\"\"\n    Returns:\n        int\n    \"\"\"\n    return x\ndef test_my_function() -> None:\n    \"\"\"\n    Returns:\n        None",
-        "detail": "test.test_file",
+        "detail": "Test.test_file",
         "documentation": {}
     },
     {
         "label": "test_my_function",
         "kind": 2,
-        "importPath": "test.test_file",
-        "description": "test.test_file",
+        "importPath": "Test.test_file",
+        "description": "Test.test_file",
         "peekOfCode": "def test_my_function() -> None:\n    \"\"\"\n    Returns:\n        None\n    \"\"\"\n    # Example test case\n    input_value = 5\n    expected_output = 25  # Assuming my_function squares the input\n    assert (\n        my_function(input_value) == expected_output",
-        "detail": "test.test_file",
+        "detail": "Test.test_file",
         "documentation": {}
     }
 ]

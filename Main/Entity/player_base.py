@@ -7,7 +7,7 @@ from CardLib.CardBase import Card  # import the Card class
 
 
 @dataclass
-class PlayerClass:
+class Player:
     """
     Player class
     """
