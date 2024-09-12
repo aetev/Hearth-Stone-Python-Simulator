@@ -1,5 +1,5 @@
 from Main.Engine.Target import Target
-from Main.Entity.GameState import GameState
+from Main.Entity.game_state import GameState
 
 
 class effect:

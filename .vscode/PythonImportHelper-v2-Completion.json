@@ -96,14 +96,6 @@
         "documentation": {}
     },
     {
-        "label": "Card",
-        "importPath": "CardLib.CardBase",
-        "description": "CardLib.CardBase",
-        "isExtraImport": true,
-        "detail": "CardLib.CardBase",
-        "documentation": {}
-    },
-    {
         "label": "ABC",
         "importPath": "abc",
         "description": "abc",
@@ -154,34 +146,50 @@
     },
     {
         "label": "GameState",
-        "importPath": "Main.Entity.GameState",
-        "description": "Main.Entity.GameState",
+        "importPath": "Main.Entity.game_state",
+        "description": "Main.Entity.game_state",
         "isExtraImport": true,
-        "detail": "Main.Entity.GameState",
+        "detail": "Main.Entity.game_state",
         "documentation": {}
     },
     {
         "label": "GameState",
-        "importPath": "Main.Entity.GameState",
-        "description": "Main.Entity.GameState",
+        "importPath": "Main.Entity.game_state",
+        "description": "Main.Entity.game_state",
         "isExtraImport": true,
-        "detail": "Main.Entity.GameState",
+        "detail": "Main.Entity.game_state",
         "documentation": {}
     },
     {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
+        "label": "the dataclass decorator",
+        "importPath": "dataclasses import dataclass  #",
+        "description": "dataclasses import dataclass  #",
         "isExtraImport": true,
-        "detail": "dataclasses",
+        "detail": "dataclasses import dataclass  #",
         "documentation": {}
     },
     {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
+        "label": "the dataclass decorator",
+        "importPath": "dataclasses import dataclass  #",
+        "description": "dataclasses import dataclass  #",
         "isExtraImport": true,
-        "detail": "dataclasses",
+        "detail": "dataclasses import dataclass  #",
+        "documentation": {}
+    },
+    {
+        "label": "the Player class",
+        "importPath": "Main.Entity.player import PlayerClass  #",
+        "description": "Main.Entity.player import PlayerClass  #",
+        "isExtraImport": true,
+        "detail": "Main.Entity.player import PlayerClass  #",
+        "documentation": {}
+    },
+    {
+        "label": "the Card class",
+        "importPath": "CardLib.CardBase import Card  #",
+        "description": "CardLib.CardBase import Card  #",
+        "isExtraImport": true,
+        "detail": "CardLib.CardBase import Card  #",
         "documentation": {}
     },
     {
@@ -2941,19 +2949,37 @@
     {
         "label": "GameState",
         "kind": 6,
-        "importPath": "Main.Entity.GameState",
-        "description": "Main.Entity.GameState",
-        "peekOfCode": "class GameState:\n    player_1: Player\n    player_2: Player\n    active_player: None",
-        "detail": "Main.Entity.GameState",
+        "importPath": "Main.Entity.game_state",
+        "description": "Main.Entity.game_state",
+        "peekOfCode": "class GameState:\n    \"\"\"\n    GameState class\n    \"\"\"\n    player_1: PlayerClass\n    player_2: PlayerClass\n    active_player: None",
+        "detail": "Main.Entity.game_state",
         "documentation": {}
     },
     {
-        "label": "Player",
+        "label": "PlayerClass",
         "kind": 6,
-        "importPath": "Main.Entity.Player",
-        "description": "Main.Entity.Player",
-        "peekOfCode": "class Player:\n    board: list[Card] = None\n    deck: list[Card] = None\n    hand: list[Card] = None\n    max_health: int = 30\n    health: int = 30",
-        "detail": "Main.Entity.Player",
+        "importPath": "Main.Entity.player",
+        "description": "Main.Entity.player",
+        "peekOfCode": "class PlayerClass:\n    \"\"\"\n    Player class\n    \"\"\"\n    board: list[Card] = None\n    deck: list[Card] = None\n    hand: list[Card] = None\n    max_health: int = 30\n    health: int = 30",
+        "detail": "Main.Entity.player",
+        "documentation": {}
+    },
+    {
+        "label": "my_function",
+        "kind": 2,
+        "importPath": "test.test_file",
+        "description": "test.test_file",
+        "peekOfCode": "def my_function(x: int) -> int:\n    \"\"\"\n    Returns:\n        int\n    \"\"\"\n    return x\ndef test_my_function() -> None:\n    \"\"\"\n    Returns:\n        None",
+        "detail": "test.test_file",
+        "documentation": {}
+    },
+    {
+        "label": "test_my_function",
+        "kind": 2,
+        "importPath": "test.test_file",
+        "description": "test.test_file",
+        "peekOfCode": "def test_my_function() -> None:\n    \"\"\"\n    Returns:\n        None\n    \"\"\"\n    # Example test case\n    input_value = 5\n    expected_output = 25  # Assuming my_function squares the input\n    assert (\n        my_function(input_value) == expected_output",
+        "detail": "test.test_file",
         "documentation": {}
     }
 ]
