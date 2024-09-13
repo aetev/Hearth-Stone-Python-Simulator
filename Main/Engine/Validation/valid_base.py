@@ -2,44 +2,45 @@
 Chain of Responsibility Design Pattern
 """
 
-from abc import ABC, abstractmethod
+from typing import Protocol, List, Optional
+from Main.Entity.game_state import GameState
 
 
-class Handler(ABC):
+class Handler(Protocol):
     """
-    Abstract class for handling requests.
+    Protocol for handling requests.
     """
 
-    @abstractmethod
-    def __init__(self, successor=None) -> None:
+    def __init__(self, successor: Optional["Handler"] = None) -> None:
         """
         Constructor for the Handler class.
         args:
         """
         self._successor = successor
 
-    def handle_request(self, request) -> None:
+    def handle_request(self, game_state: GameState) -> bool:
         """
-        Abstract method for handling requests.
+        Method for handling requests.
         """
 
 
-class ValidationEngine(ABC):
+class ValidationEngine(Protocol):
     """
-    Abstract class for the validation engine.
+    Protocol for the validation engine.
     """
 
-    @abstractmethod
     def __init__(self) -> None:
         """
         Constructor for the ValidationEngine class.
         """
-        self.handlers = []
+        self.handlers: List[Handler] = []
 
-    @abstractmethod
-    def validate(self, request) -> None:
+    def validate(self, game_state: GameState) -> bool:
         """
         Method for validating requests.
+        Returns True if all handlers validate the request, otherwise False.
         """
         for handler in self.handlers:
-            handler.handle_request(request)
+            if not handler.handle_request(game_state):
+                return False
+        return True

@@ -17,3 +17,4 @@ class Player:
     hand: list[Card] = None
     max_health: int = 30
     health: int = 30
+    fatigue: int = 0

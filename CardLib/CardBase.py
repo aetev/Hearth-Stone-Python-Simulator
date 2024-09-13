@@ -1,10 +1,10 @@
-from abc import ABC, abstractmethod
+from abc import ABC
 import json
 
 
 def get_card_info(card_name):
     with open("card/sets/core/core_dict.json", "r") as file:
-        minion_info = json.load(file)
+        minion_info = jsoan.load(file)
         return minion_info.get(card_name)
 
 
