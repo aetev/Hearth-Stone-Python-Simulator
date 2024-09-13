@@ -225,14 +225,6 @@
         "documentation": {}
     },
     {
-        "label": "GameState",
-        "importPath": "Main.Entity.game_state",
-        "description": "Main.Entity.game_state",
-        "isExtraImport": true,
-        "detail": "Main.Entity.game_state",
-        "documentation": {}
-    },
-    {
         "label": "needed",
         "importPath": "Main.Engine.Effects.effect_base import Effect  # This is the only",
         "description": "Main.Engine.Effects.effect_base import Effect  # This is the only",
@@ -353,14 +345,6 @@
         "documentation": {}
     },
     {
-        "label": "FreindlyHero",
-        "importPath": "Main.Engine.Targeting.target_func",
-        "description": "Main.Engine.Targeting.target_func",
-        "isExtraImport": true,
-        "detail": "Main.Engine.Targeting.target_func",
-        "documentation": {}
-    },
-    {
         "label": "DrawCard",
         "importPath": "Main.Engine.Effects.effect_func",
         "description": "Main.Engine.Effects.effect_func",
@@ -374,14 +358,6 @@
         "description": "Main.Engine.Effects.effect_func",
         "isExtraImport": true,
         "detail": "Main.Engine.Effects.effect_func",
-        "documentation": {}
-    },
-    {
-        "label": "Player",
-        "importPath": "Main.Entity.player_base",
-        "description": "Main.Entity.player_base",
-        "isExtraImport": true,
-        "detail": "Main.Entity.player_base",
         "documentation": {}
     },
     {
@@ -3169,7 +3145,7 @@
         "kind": 2,
         "importPath": "test.test_effects",
         "description": "test.test_effects",
-        "peekOfCode": "def create_game():\n    \"\"\"\n    This function is used to create a game state for testing.\n    \"\"\"\n    p_1 = Player([], [], [], [])\n    p_2 = Player([], [], [], [])\n    game = GameState(p_1, p_2, p_1)\n    return game\ndef test_draw():\n    \"\"\"",
+        "peekOfCode": "def create_game():\n    \"\"\"\n    This function is used to create a game state for testing.\n    \"\"\"\n    p_1 = Player([], [1, 1, 1], [], [])\n    p_2 = Player([], [1, 1, 1], [], [])\n    game = GameState(p_1, p_2, p_1)\n    return game\ndef test_draw():\n    \"\"\"",
         "detail": "test.test_effects",
         "documentation": {}
     },
@@ -3178,34 +3154,25 @@
         "kind": 2,
         "importPath": "test.test_effects",
         "description": "test.test_effects",
-        "peekOfCode": "def test_draw():\n    \"\"\"\n    This function is used to test the draw card effect of a card.\n    \"\"\"\n    game = create_game()\n    draw = DrawCard(FreindlyHero, 1)\n    draw.execute(game)\n    assert len(game.player_1.hand) == 1  # The player should have 1 card in hand",
+        "peekOfCode": "def test_draw():\n    \"\"\"\n    This function is used to test the draw card effect of a card.\n    \"\"\"\n    game = create_game()\n    draw = DrawCard(FreindlyHero, 1)\n    draw.execute(game)\n    assert len(game.player_1.hand) == 1  # The player should have 1 card in hand\n    def test_fatigue_damage():\n        \"\"\"",
         "detail": "test.test_effects",
-        "documentation": {}
-    },
-    {
-        "label": "create_game",
-        "kind": 2,
-        "importPath": "test.test_engine",
-        "description": "test.test_engine",
-        "peekOfCode": "def create_game():\n    \"\"\"\n    This function is used to create a game state for testing.\n    \"\"\"\n    p_1 = Player([], [], [], [])\n    p_2 = Player([], [], [], [])\n    game = GameState(p_1, p_2, p_1)\n    return game\ndef test_damage():\n    \"\"\"",
-        "detail": "test.test_engine",
         "documentation": {}
     },
     {
         "label": "test_damage",
         "kind": 2,
-        "importPath": "test.test_engine",
-        "description": "test.test_engine",
+        "importPath": "test.test_effects",
+        "description": "test.test_effects",
         "peekOfCode": "def test_damage():\n    \"\"\"\n    This function is used to test the damage effect of a card.\n    \"\"\"\n    game = create_game()\n    damage = Damage(FreindlyHero, 5)\n    damage.execute(game)\n    assert game.player_1.health == 25  # The player should have 25 health left",
-        "detail": "test.test_engine",
+        "detail": "test.test_effects",
         "documentation": {}
     },
     {
-        "label": "test_game_player",
+        "label": "test_game",
         "kind": 2,
         "importPath": "test.test_entity",
         "description": "test.test_entity",
-        "peekOfCode": "def test_game_player():\n    \"\"\"\n    This function is used to test the game and player classes\n    \"\"\"\n    p_1 = Player([], [], [], [])\n    p_2 = Player([], [], [], [])\n    game_state = GameState(p_1, p_2, p_1)\n    assert game_state.player_1 == p_1\n    assert game_state.player_2 == p_2\n    assert game_state.active_player == p_1",
+        "peekOfCode": "def test_game():\n    \"\"\"\n    This function is used to test the game and player classes\n    \"\"\"\n    p_1 = Player([], [], [], [])\n    p_2 = Player([], [], [], [])\n    game_state = GameState(p_1, p_2, p_1)\n    assert game_state.player_1 == p_1\n    assert game_state.player_2 == p_2\n    assert game_state.active_player == p_1",
         "detail": "test.test_entity",
         "documentation": {}
     }

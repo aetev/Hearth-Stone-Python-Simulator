@@ -6,7 +6,7 @@ from Main.Entity.game_state import GameState  # This is the only import needed
 from Main.Entity.player_base import Player  # import the Player class
 
 
-def test_game_player():
+def test_game():
     """
     This function is used to test the game and player classes
     """
