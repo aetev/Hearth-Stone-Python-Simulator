@@ -33,11 +33,12 @@ class DrawCard(Effect):
         self.target = target()
         self.amount = amount
 
-    def execute(self, game_state: GameState) -> None:
+    def execute(self, game_state: GameState):
         """
         This method is used to execute the draw card effect of a card.
         """
         target = self.target.get_target(game_state)
+
         for _ in range(self.amount):
             if target.deck:
                 card = target.deck.pop(0)

@@ -13,3 +13,12 @@ class FreindlyHero(Target):
 
     def get_target(self, game_state: GameState) -> object:
         return game_state.player_1
+
+
+class EnemyHero(Target):
+    """
+    This class targets the hero that played it.
+    """
+
+    def get_target(self, game_state: GameState) -> object:
+        return game_state.player_2

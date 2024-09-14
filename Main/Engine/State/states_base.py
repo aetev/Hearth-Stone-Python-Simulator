@@ -28,7 +28,7 @@ class ContextManager(Protocol):
     def __init__(self, strategy: Strategy) -> None:
         self.strategy = strategy
 
-    def execute_strategy(self, game_state: GameState) -> None:
+    def execute_strategy(self, game_state: GameState, action_num: int) -> None:
         """
         method to execute the strategy within the context manager
         """

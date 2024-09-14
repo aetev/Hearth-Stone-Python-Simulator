@@ -10,8 +10,8 @@ def test_game():
     """
     This function is used to test the game and player classes
     """
-    p_1 = Player([], [], [], [])
-    p_2 = Player([], [], [], [])
+    p_1 = Player([], [], [])
+    p_2 = Player([], [], [])
     game_state = GameState(p_1, p_2, p_1)
     assert game_state.player_1 == p_1
     assert game_state.player_2 == p_2
